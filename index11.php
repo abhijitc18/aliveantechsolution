@@ -43,7 +43,7 @@
 
     <li class="nav-item">
       <div class="active">
-        <a class="nav-link" href="contact_us.php">Contact Us</a>
+        <a class="nav-link" href="contact.php">Contact Us</a>
       </div>
     </li>
 
@@ -66,7 +66,7 @@
   </ul>
   <!-- search -->
   <!-- get start btn -->
-  <!--  <a href="contact_us.php" class="btn btn-primary hover-ripple">get a Quote </a> -->
+  <!--  <a href="contact.php" class="btn btn-primary hover-ripple">get a Quote </a> -->
 
 </div>
 </nav>
