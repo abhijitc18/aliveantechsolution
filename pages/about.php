@@ -1,57 +1,7 @@
-<?php include 'header.php'; ?>
-<!-- navigation -->
-
-<div class="collapse navbar-collapse text-center" id="navigation">
-  <ul class="navbar-nav ml-auto">
-    <li class="nav-item">
-      <div class="active">
-        <a class="nav-link" href="index.php">Home</a>
-      </div>
-    </li>
-
-    <li class="nav-item">
-      <div class="active">
-        <a class="nav-link" style="color: #f96a3f; " href="about_us.php">About us</a>
-      </div>
-    </li>
-
-    <li class="nav-item">
-      <div class="active">
-        <a class="nav-link" href="Website_Development.php">Website Development</a>
-      </div>
-    </li>
-
-
-    <li class="nav-item">
-      <div class="active">
-        <a class="nav-link" href="Digital_Marketing.php">Digital Marketing</a>
-      </div>
-
-
-    </li>
-    <li class="nav-item">
-      <div class="active">
-        <a class="nav-link" href="#">Designing</a>
-      </div>
-    </li>
-
-    <li class="nav-item">
-      <div class="active">
-        <a class="nav-link" href="contact.php">Contact Us</a>
-      </div>
-    </li>
-  </ul>
-
-</div>
-</nav>
-</div>
-</div>
-<!-- /navigation -->
-</header>
-<!-- /header -->
+<?php require '../includes/header.php'; ?>
 
 <!-- page title -->
-<section class="banner-section bg-cover overlay" data-background="images/backgrounds/page-title.jpg">
+<section class="banner-section bg-cover overlay" data-background="/aliveantechsolution/assets/images/backgrounds/page-title.jpg">
   <div class="container">
     <div class="row">
       <div class="col-12">
@@ -59,12 +9,11 @@
         <!-- breadcrumb -->
         <nav aria-label="breadcrumb">
           <ol class="breadcrumb bg-transparent p-0">
-            <li class="breadcrumb-item font-weight-semebold"><a class="text-white" href="index.php">Home</a></li>
+            <li class="breadcrumb-item font-weight-semebold">
+              <a class="text-white" href="/aliveantechsolution/index">Home</a>
+            </li>
             <li class="breadcrumb-item font-weight-semebold active text-primary" aria-current="page">About Us</li>
           </ol>
-          <br>
-          <br>
-          <br>
         </nav>
       </div>
     </div>
@@ -92,13 +41,12 @@
         <style type="text/css">
           @media (min-width: 360px) and (max-width: 640px) {
             .humandala_round {
-
               width: 300px;
               height: 350px;
             }
           }
         </style>
-        <img class="img-about" src="images/about/about1.webp">
+        <img class="img-about" src="/aliveantechsolution/assets/images/about/about1.webp">
       </div>
     </div>
   </div>
@@ -127,7 +75,7 @@
             }
           }
         </style>
-        <img class="img-about2" src="images/service/vision.jpg">
+        <img class="img-about2" src="/aliveantechsolution/assets/images/service/vision.jpg">
       </div>
     </div>
   </div>
@@ -145,7 +93,7 @@
             }
           }
         </style>
-        <img class="img-about3" src="images/service/mission.jpg">
+        <img class="img-about3" src="/aliveantechsolution/assets/images/service/mission.jpg">
       </div>
       <div class="col-lg-6 col-md-6 mb-8 mb-md-0 ">
         <span class="section-title-border "></span>
@@ -158,9 +106,4 @@
   </div>
 </section>
 
-<?php include 'logo_silder.php'; ?>
-
-</div>
-</div>
-</section>
-<?php include 'footer.php'; ?>
+<?php require '../includes/footer.php'; ?>

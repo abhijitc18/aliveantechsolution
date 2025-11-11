@@ -138,7 +138,7 @@ $page = basename($_SERVER['PHP_SELF']);
                 <a class="text-white d-inline-block px-lg-3 px-2">Call Us Now: <span class="text-primary">+91 9145445449</span></a>
               </li>
               <li class="list-inline-item mx-0">
-                <a href="/aliveantechsolution/pages/Get_A_Quote.php" class="btn btn-primary hover-ripple">get a Quote </a>
+                <a href="/aliveantechsolution/pages/get-a-quote" class="btn btn-primary hover-ripple">get a Quote </a>
               </li>
             </ul>
           </div>
@@ -207,7 +207,7 @@ $page = basename($_SERVER['PHP_SELF']);
       <div class="container">
         <nav class="navbar navbar-expand-lg navbar-light bg-white">
           <!-- Logo -->
-          <a class="navbar-brand" href="index.php">
+          <a class="navbar-brand" href="/aliveantechsolution/index">
             <img class="navimg" src="/aliveantechsolution/assets/images/ATS_Logo.png" alt="Alivean Tech Solutions Logo">
           </a>
 
