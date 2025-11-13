@@ -91,7 +91,6 @@ $page = basename($_SERVER['PHP_SELF']);
   <div class="preloader">
     <div class="spin"></div>
   </div>
-  <!-- preloader end -->
 
   <!-- header -->
   <header>
@@ -137,7 +136,7 @@ $page = basename($_SERVER['PHP_SELF']);
               <li class="list-inline-item mx-0">
                 <a class="text-white d-inline-block px-lg-3 px-2">Call Us Now: <span class="text-primary">+91 9145445449</span></a>
               </li>
-              <li class="list-inline-item mx-0">
+              <li class="list-inline-item mx-0 get-quote">
                 <a href="/aliveantechsolution/pages/get-a-quote" class="btn btn-primary hover-ripple">get a Quote </a>
               </li>
             </ul>
@@ -234,10 +233,30 @@ $page = basename($_SERVER['PHP_SELF']);
                   Our Services
                 </a>
                 <div class="dropdown-menu" aria-labelledby="servicesDropdown">
-                  <a class="dropdown-item" href="/aliveantechsolution/pages/web_development">Web Development</a>
-                  <a class="dropdown-item" href="/aliveantechsolution/pages/digital_marketing">Digital Marketing</a>
-                  <a class="dropdown-item" href="/aliveantechsolution/pages/branding">Branding & Design</a>
-                  <a class="dropdown-item" href="/aliveantechsolution/pages/video_production">Video Production</a>
+                  <a class="dropdown-item" href="/aliveantechsolution/pages/our-services/website-designing">Website Designing</a>
+                  <a class="dropdown-item" href="/aliveantechsolution/pages/our-services/website-development">Website Development</a>
+                  <a class="dropdown-item" href="/aliveantechsolution/pages/our-services/app-development">App Development</a>
+                  <a class="dropdown-item" href="/aliveantechsolution/pages/our-services/wordpress-development">WordPress Development</a>
+                  <a class="dropdown-item" href="/aliveantechsolution/pages/our-services/ecommerce-solutions">E-Commerce Solutions</a>
+                  <a class="dropdown-item" href="/aliveantechsolution/pages/our-services/landing-page">Landing Page</a>
+                  <a class="dropdown-item" href="/aliveantechsolution/pages/our-services/payment-gateway-solution">Payment Gateway Solution</a>
+                </div>
+              </li>
+
+              <!-- Dropdown: Digital Marketing -->
+              <li class="nav-item dropdown <?php echo ($current_page === 'services.php') ? 'active' : ''; ?>">
+                <a class="nav-link dropdown-toggle" href="/aliveantechsolution/pages/services" id="servicesDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                  Digital Marketing
+                </a>
+                <div class="dropdown-menu" aria-labelledby="servicesDropdown">
+                  <a class="dropdown-item" href="/aliveantechsolution/pages/digital-marketing/digital-marketing">Digital Marketing</a>
+                  <a class="dropdown-item" href="/aliveantechsolution/pages/digital-marketing/seo">SEO</a>
+                  <a class="dropdown-item" href="/aliveantechsolution/pages/digital-marketing/social-media-marketing">Social Media Marketing</a>
+                  <a class="dropdown-item" href="/aliveantechsolution/pages/digital-marketing/content-writing">Content Writing</a>
+                  <a class="dropdown-item" href="/aliveantechsolution/pages/digital-marketing/branding-graphic-design">Branding & Graphic Design</a>
+                  <a class="dropdown-item" href="/aliveantechsolution/pages/digital-marketing/bulk-messaging-pomotions">Bulk Messaging & Promotions</a>
+                  <a class="dropdown-item" href="/aliveantechsolution/pages/digital-marketing/election-campagins-marketing">Election Campagins & Marketing</a>
+                  <a class="dropdown-item" href="/aliveantechsolution/pages/digital-marketing/video-production-editing">Video Production & Editing</a>
                 </div>
               </li>
 

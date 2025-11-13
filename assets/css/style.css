@@ -2684,4 +2684,79 @@ blockquote p {
     margin-left: 50px;
   }
 }
+
+.get-quote a {
+  margin: 10px 0 10px 0;
+  padding: 10px 20px;
+}
+
+.web-service {
+  padding: 0 40px 0 40px;
+}
+
+/* FAQ */
+
+.faq-content .accordion .card {
+  background-color: #f6f7f9;
+  margin-bottom: 15px;
+  border: none;
+}
+
+.faq-content .accordion .card .card-header {
+  display: flex;
+  align-items: center;
+  padding: 0 !important;
+  border: none;
+  background-color: #fff;
+  box-shadow: unset;
+}
+
+.faq-content .accordion .card .card-header .card-link {
+  position: relative;
+  display: block;
+  width: 100%;
+  padding: 20px 30px 0 30px;
+  height: 65px;
+  line-height: 1.3;
+  font-size: 18px;
+  font-weight: 700;
+  background: #ffffff;
+  color: #161616;
+  border-radius: 30px 30px 0 0;
+}
+
+.faq-content .accordion .card .card-header .card-link:after {
+  position: absolute;
+  font-family: FontAwesome;
+  content: "\f068";
+  right: 20px;
+  top: 50%;
+  transform: translateY(-50%);
+  text-align: center;
+  font-size: 12px;
+  color: #ffffff;
+  background-image: linear-gradient(250deg, #3d9ef1 0%, #e54040 100%);
+  width: 35px;
+  height: 35px;
+  line-height: 35px;
+  border-radius: 100%;
+}
+
+.faq-content .accordion .card .card-header .card-link.collapsed:after {
+  color: #ffffff;
+  content: "\f067";
+}
+
+.faq-content .accordion .card .card-body {
+  color: #161616;
+  border-radius: 0 0 30px 30px;
+  padding: 0 30px 30px 30px !important;
+  width: 100%;
+  background: #ffffff;
+}
+
+.faq-content .accordion .card .card-body p {
+  text-align: justify;
+}
+
 /*# sourceMappingURL=maps/style.css.map */

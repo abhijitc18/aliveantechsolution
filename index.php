@@ -114,7 +114,7 @@
 </section>
 
 <!-- about us -->
-<section class="section pt-0">
+<section class="section pt-0 mb-5">
   <div class="container">
     <div class="row justify-content-between align-items-center">
       <div class="col-md-5 bg-contain" data-background="/aliveantechsolution/assets/images/backgrounds/about-us-bg.png">
@@ -189,7 +189,7 @@
 </section>
 
 <!-- feature -->
-<section class="section">
+<section class="section mb-5">
   <div class="container-fluid">
     <div class="row align-items-center">
       <div class="col-lg-4 offset-lg-2 order-lg-1 order-2">
@@ -563,7 +563,7 @@
 </section> -->
 
 <section class="section overlay-secondary bg-fixed py-5" data-background="/aliveantechsolution/assets/images/backgrounds/cta-lg.jpg">
-  <div class="container">
+  <div class="container mb-5">
     <div class="row justify-content-center">
       <div class="col-lg-8">
         <h2 class="mb-4 fw-bold text-white">Ready to Build Your Digital Presence?</h2>
