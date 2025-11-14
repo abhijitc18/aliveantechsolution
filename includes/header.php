@@ -84,6 +84,10 @@ $page = basename($_SERVER['PHP_SELF']);
   <!--Favicon-->
   <link rel="shortcut icon" href="/aliveantechsolution/assets/images/ATS-favicon.png" type="image/x-icon">
   <link rel="icon" href="/aliveantechsolution/assets/images/ATS-favicon.png" type="image/x-icon">
+
+  <!-- Bootstrap Icons CDN -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
+
 </head>
 
 <body>
