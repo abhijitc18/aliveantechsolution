@@ -1,313 +1,209 @@
-<?php include 'header.php'; ?>
-
-<!-- navigation -->
-
-
-<div class="collapse navbar-collapse text-center" id="navigation">
-  <ul class="navbar-nav ml-auto">
-    <li class="nav-item">
-      <div class="active">
-        <a class="nav-link" href="index.php">Home</a>
-      </div>
-    </li>
-
-    <li class="nav-item">
-      <div class="active">
-        <a class="nav-link" href="about_us.php">About us</a>
-      </div>
-    </li>
-
-
-    <li class="nav-item">
-      <div class="active">
-        <a class="nav-link" href="Website_Development.php">Website Development</a>
-      </div>
-
-    </li>
-
-
-    <li class="nav-item">
-      <div class="active">
-        <a class="nav-link" style="color: #f96a3f; " href="Digital_Marketing.php">Digital Marketing</a>
-      </div>
-
-    </li>
-    <li class="nav-item">
-      <div class="active">
-        <a class="nav-link" href="#">Designing</a>
-      </div>
-    </li>
-
-    <li class="nav-item">
-      <div class="active">
-        <a class="nav-link" href="contact.php">Contact Us</a>
-      </div>
-    </li>
-
-
-    <!-- <li class="nav-item dropdown">
-              <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown"
-                aria-haspopup="true" aria-expanded="false">
-                Shortcode
-              </a>
-              <div class="dropdown-menu">
-                  <a class="dropdown-item" href="components/buttons.html">Buttons</a>
-                  <a class="dropdown-item" href="components/icons.html">Icons</a>
-                  <a class="dropdown-item" href="components/typography.html">Typography</a>
-                  <a class="dropdown-item" href="components/accordions.html">Accordions</a>
-                  <a class="dropdown-item" href="components/blog-contents.html">Blog Contents</a>
-                  <a class="dropdown-item" href="components/service-contents.html">Service Contents</a>
-                  <a class="dropdown-item" href="components/team-contents.html">Team Contents</a>
-              </div>
-            </li> -->
-  </ul>
-  <!-- search -->
-  <!-- get start btn -->
-  <!--  <a href="contact.php" class="btn btn-primary hover-ripple">get a Quote </a> -->
-
-</div>
-</nav>
-</div>
-</div>
-<!-- /navigation -->
-</header>
-<!-- /header -->
+<?php require '../../includes/header.php'; ?>
 
 <!-- page title -->
-<section class="banner-section bg-cover overlay" data-background="images/backgrounds/page-title.jpg">
+<section class="banner-section bg-cover overlay" data-background="/aliveantechsolution/assets/images/backgrounds/page-title.jpg">
   <div class="container">
     <div class="row">
       <div class="col-12">
-        <h2 class="text-white mt-3">Search Engine Optimisation</h2>
-        <!-- breadcrumb -->
+        <h2 class="text-white mt-3">SEO</h2>
         <nav aria-label="breadcrumb">
           <ol class="breadcrumb bg-transparent p-0">
-            <li class="breadcrumb-item font-weight-semebold"><a class="text-white" href="index.php">Home</a></li>
-            <li class="breadcrumb-item font-weight-semebold active text-primary" aria-current="page">Search Engine Optimisation</li>
+            <li class="breadcrumb-item font-weight-semebold">
+              <a class="text-white" href="/aliveantechsolution/index">Home</a>
+            </li>
+            <li class="breadcrumb-item font-weight-semebold active text-primary" aria-current="page">SEO</li>
           </ol>
-          <br>
-          <br>
-          <br>
         </nav>
       </div>
     </div>
   </div>
 </section>
-<!-- /page title -->
 
-<!-- service details -->
-<section class="section">
+<!-- Website Designing Service Page -->
+<section class="py-5 bg-light">
   <div class="container">
-    <div class="row">
-      <aside class="col-lg-4">
-        <!-- service list -->
-        <div class="bg-white px-4 py-5 box-shadow mb-5">
-          <h4 class="mb-4">Our Services</h4>
-          <ul class="list-styled style-circle">
+    <div class="row align-items-center">
+      <div class="col-lg-6 mb-4 mb-lg-0">
+        <h2 class="mb-4 fw-bold text-uppercase">SEO</h2>
+        <p>
+          <strong>Alivean Tech Solutions — Your Growth-Driven SEO Partner in Pune</strong> <br>
+          Search Engine Optimization is more than just ranking on Google — it’s about building long-term visibility, attracting high-intent customers, and turning search traffic into revenue. At Alivean Tech Solutions, we help businesses grow by creating SEO strategies that are tailored, data-driven, and built for real results.
+        </p>
+        <p>
+          We start by understanding your business, industry, and competition. Our team performs detailed keyword research, audits your website’s structure, and fixes technical roadblocks that may be stopping you from ranking. From optimizing your on-page content to strengthening your domain authority with ethical link-building, we ensure your website becomes search-engine friendly and user-focused.
+        </p>
+        <p>
+          <strong>Alivean Tech Solutions</strong> also works on creating content that aligns with what your audience is searching for. Whether it's blogs, landing pages, or product descriptions, we refine every piece to improve your relevance, readability, and conversion potential. Our continuous tracking, analytics, and performance reports make it easy for you to see how your traffic and rankings grow month after month.
+        </p>
+        <p>
+          With an SEO strategy built on transparency, consistency, and measurable results, <strong>Alivean Tech Solutions</strong> helps businesses increase brand visibility, generate qualified leads, and stay ahead of competition in a crowded digital landscape.
+        </p>
+        <a href="/aliveantechsolution/pages/contact" class="btn btn-primary mt-3">Contact Us</a>
+      </div>
 
-            <li class="border-bottom border-color"><a href="Search-Engine-Optimisation.php" class="text-color d-block pb-3 mt-3 text-decoration-none" style="color:#80bfff ;  ">Search Engine Optimisation</a></li>
-
-            <li class="border-bottom border-color"><a href="Youtube-Promotion.php" class="text-color d-block pb-3 mt-3 text-decoration-none">Youtube Promotion</a></li>
-            <li class="border-bottom border-color"><a href="Email-Marketing.php" class="text-color d-block pb-3 mt-3 text-decoration-none">Email Marketing</a></li>
-            <li class="border-bottom border-color"><a href="Online-Advertising.php" class="text-color d-block pb-3 mt-3 text-decoration-none">Online Advertising</a></li>
-            <li class="border-bottom border-color"><a href="Local-Seo.php" class="text-color d-block pb-3 mt-3 text-decoration-none"> Local Seo</a></li>
-            <li class="border-bottom border-color"><a href="Social-Media-Marketing.php" class="text-color d-block pb-3 mt-3 text-decoration-none">Social Media Marketing</a></li>
-
-            <!-- <li class="border-bottom border-color"><a href="#" class="text-color d-block pb-3 mt-3 text-decoration-none">Afiliated
-                Marketing</a></li>
-            <li><a href="#" class="text-color d-block pb-3 mt-3 text-decoration-none">Targated Marketing</a></li> -->
-          </ul>
-        </div>
-        <!-- quick contact -->
-        <div class="bg-white px-4 py-5 box-shadow mb-5">
-          <h4 class="mb-4">Quick Contact</h4>
-          <form action="#">
-            <input type="text" name="name" id="name" class="form-control form-control-sm border-0 rounded-0 box-shadow mb-3"
-              placeholder="Name">
-            <input type="email" name="mail" id="mail" class="form-control form-control-sm border-0 rounded-0 box-shadow mb-3"
-              placeholder="Email">
-            <input type="text" name="phone" id="phone" class="form-control form-control-sm border-0 rounded-0 box-shadow mb-3"
-              placeholder="Phone">
-            <input type="text" name="subject" id="subject" class="form-control form-control-sm border-0 rounded-0 box-shadow mb-3"
-              placeholder="Subject">
-            <textarea name="message" id="message" class="form-control form-control-sm border-0 rounded-0 box-shadow mb-3 py-3 px-4"
-              placeholder="Your Message"></textarea>
-            <button type="submit" value="send" class="btn btn-primary">send message</button>
-          </form>
-        </div>
-        <!-- pdf download -->
-
-      </aside>
-      <div class="col-lg-8">
-        <p class="mb-3" style="text-indent: 0em;">Search Engine Optimization (SEO) is one of the essential digital marketing components because it makes your website visible on the search results. But, the implementation of SEO practices on your website can be a hassle, primarily because of the extensive SEO solutions that combine altogether do improve a website's SEO. Here is a brief overview of SEO, and how an Alivean Tech Solutions can help you improve your website's search rankings.</p>
-
-        <img src="images/project/SEARCHENGINEOPTIMISATION.png" alt="service thumb" class="img-fluid-custom img-responsive">
-
-        <!-- <img src="images/service/service11.webp" alt="service thumb" class="img-fluid w-100 mb-5"> -->
-        <h4 class="mb-4">WE PROVIDE WEBSITE MAINTENANCE FOR:</h4>
-        <ul class="list-styled style-circle">
-          <li class="mb-2"> Rank at the top positions of SERP</li>
-          <li class="mb-2"> Increase in Organic traffic</li>
-          <li class="mb-2"> Outperform their competition</li>
-          <li class="mb-2"> Generate leads without paying for ads
-          </li>
-        </ul>
-
-        <h4 class="mb-4">WHAT WE OFFER:</h4>
-        <p class="mb-3"><b>The basic steps to optimize your website include :</b></p>
-        <ul class="list-styled style-circle">
-          <li class="mb-2"> Keyword research</li>
-          <li class="mb-2"> Competitor analysis</li>
-          <li class="mb-2"> Keyword Mapping</li>
-          <li class="mb-2"> On-page optimization</li>
-          <li class="mb-2"> Content creation</li>
-          <li class="mb-2"> Content promotion</li>
-          <li class="mb-2">Tracking performance of SEO campaign</li>
-        </ul>
-
-
-
-
-        <!-- Benifits of service -->
-        <!-- <h3>Benifits of service</h3>
-        <p>Quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui
-          dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora
-          incidunt ut labore et dolore magnam aliquam.</p>
-        <div class="row mb-5">
-          <div class="col-md-4">
-            <ul class="list-styled style-circle">
-              <li class="mb-2">Setting up of the HR Function</li>
-              <li class="mb-2">Designing HR Policies and Processes</li>
-              <li class="mb-2">HR Audit</li>
-              <li class="mb-2">HR Re-engineering/li>
-              <li class="mb-2">HR Outsourcing</li>
-              <li class="mb-2">HR Catalogue Services</li>
-               <li class="mb-2">Interim HR</li>
-              <li class="mb-2">Outplacement support</li>
-            </ul>
-          </div>
-        </div> -->
-        <!-- Business Strategy -->
-        <!-- <div class="row mb-5">
-          <div class="col-md-6">
-            <h3>Business Strategy</h3>
-            <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia dese runt mollit anim id est
-              laborum.
-              sed ut perspiciatis unde omnis iste natus error sit voluptatem acusantium.</p>
-
-            <ul class="list-styled style-circle">
-              <li class="mb-2">Quality Services</li>
-              <li class="mb-2">Clients Satisfaction</li>
-            </ul>
-          </div>
-          <div class="col-md-6 align-self-end"> -->
-        <!-- chart -->
-        <!-- <canvas id="profit"></canvas>
- -->
-        <!-- script -->
-        <!-- <script>
-  let profit = document.getElementById('profit').getContext('2d');
-  let profitChart = new Chart(profit, {
-    type: 'line', // bar, horizontalBar, pie, line, doughnut, radar, polarArea
-    data: {
-      labels: ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'jul'],
-      datasets: [{
-        label: 'Profit',
-        data: [
-          230,
-          400,
-          500,
-          380,
-          350,
-          450,
-          601
-        ],
-        backgroundColor: 'transparent',
-        borderWidth: 3,
-        borderColor: '#86c33a'
-      }]
-    },
-    options: {
-      title: {
-        display: false,
-        text: 'Sales: 1 Sep, 2017 - 2 Aug, 2018',
-        fontSize: 15
-      },
-      legend: {
-        display: false,
-        position: 'right',
-        padding: 5,
-      },
-      layout: {
-        padding: {
-          left: 0,
-          right: 0,
-          bottom: 0,
-          top: 0
-        }
-      },
-      tooltips: {
-        enabled: true
-      }
-    }
-  });
-</script>
-          </div>
-        </div> -->
-        <!-- Analyze your business -->
-        <!--  <h3>Analyze your business</h3>
-        <p class="mb-5">Quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam
-          est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi
-          tempora incidunt ut labore et dolore magnam aliquam.</p>
-     
-        <div id="accordion">
-      
-          <div class="card border-0 mb-4">
-            <div class="card-header p-0 border-0 bg-transparent">
-              <a class="card-link h4 text-dark font-secondary d-block tex-dark mb-0 py-10" data-toggle="collapse" href="#collapseOne">
-                <i class="fa fa-minus text-primary mr-2"></i> Elit Duied Aiusmod Tempor
-              </a>
-            </div>
-            <div id="collapseOne" class="collapse show" data-parent="#accordion">
-              <div class="card-body text-color pl-4 pb-0">
-                Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia
-                non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam.
-              </div>
-            </div>
-          </div>
-          
-          <div class="card border-0 mb-4">
-            <div class="card-header p-0 border-0 bg-transparent">
-              <a class="card-link h4 text-dark font-secondary d-block tex-dark mb-0 py-10" data-toggle="collapse" href="#collapseTwo">
-                <i class="fa fa-plus text-primary mr-2"></i> Mod Tempor did Labore Dolory
-              </a>
-            </div>
-            <div id="collapseTwo" class="collapse" data-parent="#accordion">
-              <div class="card-body text-color pl-4 pb-0">
-                Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia
-                non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam.
-              </div>
-            </div>
-          </div> -->
-        <!-- accordion item -->
-        <!--     <div class="card border-0 mb-4">
-            <div class="card-header p-0 border-0 bg-transparent">
-              <a class="card-link h4 text-dark font-secondary d-block tex-dark mb-0 py-10" data-toggle="collapse" href="#collapseThree">
-                <i class="fa fa-plus text-primary mr-2"></i> Aiusmod Tempor did Labore Dolory
-              </a>
-            </div>
-            <div id="collapseThree" class="collapse" data-parent="#accordion">
-              <div class="card-body text-color pl-4 pb-0">
-                Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia
-                non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam.
-              </div>
-            </div>
-          </div> -->
+      <div class="col-lg-6 text-center">
+        <img src="/aliveantechsolution/assets/images/service/seo.gif" alt="App Development"
+          class="img-fluid rounded shadow-sm">
       </div>
     </div>
   </div>
+</section>
+
+<!-- Know about our main domains -->
+<section class="py-5">
+  <div class="container web-service">
+    <h3 class="mb-4 fw-bold text-uppercase">Boost Your Online Visibility with Alivean’s Result-Driven SEO Services</h3>
+    <p style="line-height: 2;">
+      <strong>Alivean Tech Solutions</strong> offers powerful, scalable, and cost-effective SEO services designed to match your business goals. A website alone isn’t enough — you need the right strategy to bring meaningful traffic to it. That’s where our expertise comes in. We help businesses attract organic visitors, strengthen their online presence, and outperform competitors on search engines.
+    </p>
+    <p>
+      With a refined SEO process and proven strategies, Alivean ensures your website ranks higher and reaches the audience actively searching for your products or services. We build SEO-friendly websites with a strong foundation, focusing on: <br>
+      - Smart and well-planned content architecture <br>
+      - Clear page titles and accurate meta descriptions <br>
+      - Clean, optimized URL structure <br>
+      - Strategic use of internal and external linking <br>
+      - Enhanced page loading speed and performance
+    </p>
+    <p>
+      In addition to these essentials, we dive deeper into what truly drives long-term ranking success — keyword optimization, competitor research, technical SEO improvements, high-quality backlink creation, mobile optimization, domain authority growth, local SEO enhancements, GMB optimization, and regular website audits. Every step ensures that your brand stays ahead in the search landscape.
+    </p>
+    <p>
+      Our comprehensive SEO solutions help businesses grow steadily by using the latest tools, ethical practices, and up-to-date search engine guidelines. With Alivean Tech Solutions, you not only improve your rankings but also gain qualified leads, better engagement, and higher conversions.
+    </p>
   </div>
 </section>
-<!-- /service details -->
 
-<?php include 'footer.php'; ?>
+<!-- FAQs Section -->
+<section class="py-5 bg-light">
+  <div class="container web-service">
+    <h3 class="mb-4 fw-bold text-uppercase">Frequently Asked Questions (FAQ’s) — SEO</h3>
+    <div class="row">
+      <div class="col-lg-12 md-mb-50">
+        <div class="faq-content">
+          <div id="accordion" class="accordion">
+            <div class="card">
+              <div class="card-header">
+                <a class="card-link collapsed" data-toggle="collapse" href="#collapse1" aria-expanded="false">
+                  1. What is SEO, and why is it important for my business?
+                </a>
+              </div>
+              <div id="collapse1" class="collapse" data-parent="#accordion">
+                <div class="card-body">
+                  <p>
+                    SEO (Search Engine Optimization) helps your website appear higher on search engines like Google. This increases visibility, attracts organic traffic, and brings more potential customers to your business.
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div class="card">
+              <div class="card-header">
+                <a class="card-link collapsed" data-toggle="collapse" href="#collapse2" aria-expanded="false">
+                  2. How long does SEO take to show results?
+                </a>
+              </div>
+              <div id="collapse2" class="collapse" data-parent="#accordion">
+                <div class="card-body">
+                  <p>
+                    SEO is a long-term strategy. Most businesses begin seeing noticeable improvements within 3–6 months, depending on competition, industry, and website condition.
+                  </p>
+                </div>
+              </div>
+            </div>
+
+            <div class="card">
+              <div class="card-header">
+                <a class="card-link collapsed" data-toggle="collapse" href="#collapse3" aria-expanded="false">
+                  3. What types of SEO services does Alivean Tech Solutions provide?
+                </a>
+              </div>
+              <div id="collapse3" class="collapse" data-parent="#accordion">
+                <div class="card-body">
+                  <p>
+                    We offer a full suite of SEO services including on-page optimization, technical SEO, keyword research, content optimization, link building, local SEO, GMB management, and SEO audits.
+                  </p>
+                </div>
+              </div>
+            </div>
+
+            <div class="card">
+              <div class="card-header">
+                <a class="card-link collapsed" data-toggle="collapse" href="#collapse4" aria-expanded="false">
+                  4. Can SEO help improve my website’s sales and leads?
+                </a>
+              </div>
+              <div id="collapse4" class="collapse" data-parent="#accordion">
+                <div class="card-body">
+                  <p>
+                    Yes. By ranking higher for relevant keywords and improving user experience, SEO attracts highly targeted traffic that is more likely to convert into customers or leads.
+                  </p>
+                </div>
+              </div>
+            </div>
+
+            <div class="card">
+              <div class="card-header">
+                <a class="card-link collapsed" data-toggle="collapse" href="#collapse5" aria-expanded="false">
+                  5. How does Alivean Tech Solutions create an SEO strategy?
+                </a>
+              </div>
+              <div id="collapse5" class="collapse" data-parent="#accordion">
+                <div class="card-body">
+                  <p>
+                    We analyze your business goals, study competitors, audit your website, and build a customized SEO plan focusing on sustainable growth and long-term visibility.
+                  </p>
+                </div>
+              </div>
+            </div>
+
+            <div class="card">
+              <div class="card-header">
+                <a class="card-link collapsed" data-toggle="collapse" href="#collapse6" aria-expanded="false">
+                  6. What is Local SEO, and do I need it?
+                </a>
+              </div>
+              <div id="collapse6" class="collapse" data-parent="#accordion">
+                <div class="card-body">
+                  <p>
+                    Local SEO helps your business appear in local search results and Google Maps. It’s essential for businesses targeting customers in a specific city or region.
+                  </p>
+                </div>
+              </div>
+            </div>
+
+            <div class="card">
+              <div class="card-header">
+                <a class="card-link collapsed" data-toggle="collapse" href="#collapse6" aria-expanded="false">
+                  7. Do you follow Google’s SEO guidelines?
+                </a>
+              </div>
+              <div id="collapse6" class="collapse" data-parent="#accordion">
+                <div class="card-body">
+                  <p>
+                    Absolutely. We strictly follow Google’s best practices and only use ethical (white-hat) SEO techniques to ensure safe, long-lasting rankings.
+                  </p>
+                </div>
+              </div>
+            </div>
+
+            <div class="card">
+              <div class="card-header">
+                <a class="card-link collapsed" data-toggle="collapse" href="#collapse6" aria-expanded="false">
+                  8. Why should I choose Alivean Tech Solutions for SEO?
+                </a>
+              </div>
+              <div id="collapse6" class="collapse" data-parent="#accordion">
+                <div class="card-body">
+                  <p>
+                    Because we combine technical expertise, industry knowledge, and personalized strategies to deliver measurable results that help your business grow online.
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<?php require '../../includes/footer.php'; ?>

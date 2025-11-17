@@ -2757,6 +2757,7 @@ blockquote p {
 
 .faq-content .accordion .card .card-body p {
   text-align: justify;
+  line-height: 1.8;
 }
 
 /* About Us Page Cards */

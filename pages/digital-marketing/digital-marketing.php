@@ -1,443 +1,203 @@
-<?php include 'header.php'; ?>
-<!-- /top header -->
-
-<!-- navigation -->
-
-<div class="collapse navbar-collapse text-center" id="navigation">
-  <ul class="navbar-nav ml-auto">
-    <li class="nav-item">
-      <div class="active">
-        <a class="nav-link" href="index.php">Home</a>
-      </div>
-    </li>
-
-    <li class="nav-item">
-      <div class="active">
-        <a class="nav-link" href="about_us.php">About us</a>
-      </div>
-    </li>
-    <!-- <li class="nav-item">
-              <div class="active" >
-              <a class="nav-link"  href="services.php">Services</a>
-              </div>
-            </li> -->
-
-    <li class="nav-item">
-      <div class="active">
-        <a class="nav-link" href="Website_Development.php">Website Development</a>
-      </div>
-
-    </li>
-
-
-    <li class="nav-item">
-      <div class="active">
-        <a class="nav-link" style="color: #f96a3f; " href="Digital_Marketing.php">Digital Marketing</a>
-      </div>
-
-    </li>
-    <li class="nav-item">
-      <div class="active">
-        <a class="nav-link" href="#">Designing</a>
-      </div>
-    </li>
-
-    <li class="nav-item">
-      <div class="active">
-        <a class="nav-link" href="contact.php">Contact Us</a>
-      </div>
-    </li>
-
-
-    <!-- <li class="nav-item dropdown">
-              <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown"
-                aria-haspopup="true" aria-expanded="false">
-                Shortcode
-              </a>
-              <div class="dropdown-menu">
-                  <a class="dropdown-item" href="components/buttons.html">Buttons</a>
-                  <a class="dropdown-item" href="components/icons.html">Icons</a>
-                  <a class="dropdown-item" href="components/typography.html">Typography</a>
-                  <a class="dropdown-item" href="components/accordions.html">Accordions</a>
-                  <a class="dropdown-item" href="components/blog-contents.html">Blog Contents</a>
-                  <a class="dropdown-item" href="components/service-contents.html">Service Contents</a>
-                  <a class="dropdown-item" href="components/team-contents.html">Team Contents</a>
-              </div>
-            </li> -->
-  </ul>
-  <!-- search -->
-  <!-- get start btn -->
-  <!--  <a href="contact.php" class="btn btn-primary hover-ripple">get a Quote </a> -->
-
-</div>
-</nav>
-</div>
-</div>
-<!-- /navigation -->
-</header>
-<!-- /header -->
+<?php require '../../includes/header.php'; ?>
 
 <!-- page title -->
-<section class="banner-section bg-cover overlay" data-background="images/backgrounds/page-title.jpg">
+<section class="banner-section bg-cover overlay" data-background="/aliveantechsolution/assets/images/backgrounds/page-title.jpg">
   <div class="container">
     <div class="row">
       <div class="col-12">
         <h2 class="text-white mt-3">Digital Marketing</h2>
-        <!-- breadcrumb -->
         <nav aria-label="breadcrumb">
           <ol class="breadcrumb bg-transparent p-0">
-            <li class="breadcrumb-item font-weight-semebold"><a class="text-white" href="index.php">Home</a></li>
-            <li class="breadcrumb-item font-weight-semebold active text-primary" aria-current="page">Digital Marketing </li>
+            <li class="breadcrumb-item font-weight-semebold">
+              <a class="text-white" href="/aliveantechsolution/index">Home</a>
+            </li>
+            <li class="breadcrumb-item font-weight-semebold active text-primary" aria-current="page">Digital Marketing</li>
           </ol>
-          <br>
-          <br>
-          <br>
         </nav>
       </div>
     </div>
   </div>
 </section>
-<!-- /page title -->
 
-<!-- service items -->
-<section class="section container">
-  <div class="row">
-    <div class="col-12 text-center">
-      <span class="section-title-border border-center"></span>
-      <p class="subtitle">Best Service</p>
-      <h2 class="section-title">Services We Provide</h2>
-    </div>
-  </div>
-  <div class="row">
-    <!-- service-item -->
-    <!--  <div class="col-lg-6 col-sm-6 mb-4 mb-lg-5">
-      <div class="card border-0 rounded-0 box-shadow">
-        <img class="card-img-top rounded-0" src="images/service/service11.webp" alt="Card image cap">
-        <div class="card-body position-relative">
-          <i class="card-icon fa fa-bar-chart"></i>
-          <h4><a href="strategic-human-resources-solutions.php" class="text-dark">Strategic Human Resources Solutions</a></h4>
-          <p class="card-text">HuMandala helps organizations through high level planning plus detailing that enables the
-integration of HR goals with business goals.</p>
-          <a href="strategic-human-resources-solutions.php" class="btn btn-secondary btn-arrow">Read More</a>
-        </div>
+<!-- Website Designing Service Page -->
+<section class="py-5 bg-light">
+  <div class="container">
+    <div class="row align-items-center">
+      <div class="col-lg-6 mb-4 mb-lg-0">
+        <h2 class="mb-4 fw-bold text-uppercase">Digital Marketing</h2>
+        <p>
+          <strong>Alivean Tech Solutions</strong> helps you establish a strong digital presence that truly connects with your audience. We dive deep into understanding what your customers expect from your brand and identify the best channels to reach them effectively. With strategic SEO, social media marketing, PPC campaigns, and targeted lead-generation techniques, we help you create a brand identity that stands out.
+        </p>
+        <p>
+          Digital marketing has become one of the most powerful ways to promote products and services today. It enables businesses to reach their ideal customers faster and more efficiently than ever before. Over the past few years, the entire advertising landscape has transformed — and brands that adapt are the ones that grow.
+        </p>
+        <p>
+          Many businesses now realize that staying ahead requires smarter, data-driven, and competitive marketing strategies. Traditional advertising alone no longer works. To connect with modern consumers and stay relevant, companies must embrace digital marketing — and that’s exactly where we come in.
+        </p>
+        <a href="/aliveantechsolution/pages/contact" class="btn btn-primary mt-3">Contact Us</a>
       </div>
-    </div> -->
-    <!-- service-item -->
-    <!-- <div class="col-lg-6 col-sm-6 mb-4 mb-lg-5">
-      <div class="card border-0 rounded-0 box-shadow">
-        <img class="card-img-top rounded-0" src="images/service/service2.webp" alt="Card image cap">
-        <div class="card-body position-relative">
-          <i class="card-icon fa fa-handshake-o"></i>
-          <h4><a href="learning-development.php" class="text-dark">Learning & Development (L&D)</a></h4>
-          <p class="card-text">HuMandala partners with organizations to cater to every need
-on its L & D curve - from problem definition to gap assessment to
-solution planning and implementation.</p>
-          <a href="learning-development.php" class="btn btn-secondary btn-arrow">Read More</a>
-        </div>
-      </div>
-    </div> -->
-    <!-- service-item -->
-    <!-- <div class="col-lg-6 col-sm-6 mb-4 mb-lg-5">
-      <div class="card border-0 rounded-0 box-shadow">
-        <img class="card-img-top rounded-0" src="images/service/ak/Organization-Development.jpg" height="306.2" width="494" alt="Card image cap">
-        <div class="card-body position-relative">
-          <i class="card-icon fa fa-briefcase"></i>
-          <h4><a href="organization-development.php" class="text-dark">Organization Development (OD)</a></h4>
-          <p class="card-text">When the health or mission of an organization is affected, HuMandala steps in with end-to-end
-OD solutions that deliver a seamless people-business integration.</p><br>
-          <a href="organization-development.php" class="btn btn-secondary btn-arrow">Read More</a>
-        </div>
-      </div>
-    </div> -->
-    <!-- service-item -->
-    <!-- <div class="col-lg-6 col-sm-6 mb-4 mb-lg-5">
-      <div class="card border-0 rounded-0 box-shadow">
-        <img class="card-img-top rounded-0" src="images/service/service4.webp" alt="Card image cap">
-        <div class="card-body position-relative">
-          <i class="card-icon fa fa-bar-chart"></i>
-          <h4><a href="recruitment-and-staffing.php" class="text-dark">Recruitment and Staffing</a></h4>
-          <p class="card-text">HuMandala solutions use data and metrics to understand,
-recruit, manage and retain talent and helps organizations
-design an effective talent management strategy and
-implementation plan.</p>
-          <a href="recruitment-and-staffing.php" class="btn btn-secondary btn-arrow">Read More</a>
-        </div>
-      </div>
-    </div> -->
 
-    <div class="col-lg-4 col-sm-4 mb-4 mb-lg-5">
-      <div class="card border-0 rounded-0 box-shadow">
-        <a href="Search-Engine-Optimisation.php"><img class="card-img-top rounded-0" src="images/project/SEARCHE.png" alt="Card image cap"></a>
-        <div class="card-body position-relative">
-          <i class="card-icon fa fa-bar-chart"></i>
-          <h4><a href="Search-Engine-Optimisation.php" class="text-dark">SEARCH ENGINE OPTIMISATION</a></h4>
-          <p class="card-text">Get your website on the first page of major search engines right when a new customer is looking for you.</p><br>
-          <a href="Search-Engine-Optimisation.php" class="btn btn-secondary btn-arrow">Read More</a>
-        </div>
+      <div class="col-lg-6 text-center">
+        <img src="/aliveantechsolution/assets/images/service/digital-marketing.gif" alt="App Development"
+          class="img-fluid rounded shadow-sm">
       </div>
     </div>
-
-    <div class="col-lg-4 col-sm-4 mb-4 mb-lg-5">
-      <div class="card border-0 rounded-0 box-shadow">
-        <a href="Youtube-Promotion.php"><img class="card-img-top rounded-0" src="images/project/YOUTUBE.png" alt="Card image cap"></a>
-        <div class="card-body position-relative">
-          <i class="card-icon fa fa-bar-chart"></i>
-          <h4><a href="Youtube-Promotion.php" class="text-dark"> YOUTUBE PROMOTION</a></h4>
-          <p class="card-text">Our Digital Marketing experts provide engagement, awareness, views, likes, shares, and conversions regarding your video to lead you to the right place.</p>
-          <a href="Youtube-Promotion.php" class="btn btn-secondary btn-arrow">Read More</a>
-        </div>
-      </div>
-    </div>
-
-    <div class="col-lg-4 col-sm-4 mb-4 mb-lg-5">
-      <div class="card border-0 rounded-0 box-shadow">
-        <a href="Email-Marketing.php"><img class="card-img-top rounded-0" src="images/project/EMAIL.png" alt="Card image cap"></a>
-        <div class="card-body position-relative">
-          <i class="card-icon fa fa-bar-chart"></i>
-          <h4><a href="Email-Marketing.php" class="text-dark"> EMAIL MARKETING</a></h4>
-          <p class="card-text">Email Marketing is an effective role for marketing strategy to increase your leads that drive people to purchase your services or products.</p>
-          <a href="Email-Marketing.php" class="btn btn-secondary btn-arrow">Read More</a>
-        </div>
-      </div>
-    </div>
-
-    <div class="col-lg-4 col-sm-4 mb-4 mb-lg-5">
-      <div class="card border-0 rounded-0 box-shadow">
-        <a href="Online-Advertising.php"><img class="card-img-top rounded-0" src="images/project/ADVERTISING.png" alt="Card image cap"></a>
-        <div class="card-body position-relative">
-          <i class="card-icon fa fa-bar-chart"></i>
-          <h4><a href="Online-Advertising.php" class="text-dark"> ONLINE ADVERTISING</a></h4>
-          <p class="card-text">Brand your business online and target customers by location, age, interests, workplace and more.</p>
-          <a href="Online-Advertising.php" class="btn btn-secondary btn-arrow">Read More</a>
-        </div>
-      </div>
-    </div>
-
-    <div class="col-lg-4 col-sm-4 mb-4 mb-lg-5">
-      <div class="card border-0 rounded-0 box-shadow">
-        <a href="Local-Seo.php"><img class="card-img-top rounded-0" src="images/project/LOCAL.png" alt="Card image cap"></a>
-        <div class="card-body position-relative">
-          <i class="card-icon fa fa-bar-chart"></i>
-          <h4><a href="Local-Seo.php" class="text-dark"> LOCAL SEO</a></h4>
-          <p class="card-text">To get nearby or locally based customer ,we are one of the most trustworthy. We will help your business to appear in local search results.</p>
-          <a href="Local-Seo.php" class="btn btn-secondary btn-arrow">Read More</a>
-        </div>
-      </div>
-    </div>
-
-    <div class="col-lg-4 col-sm-4 mb-4 mb-lg-5">
-      <div class="card border-0 rounded-0 box-shadow">
-        <a href="Social-Media-Marketing.php"><img class="card-img-top rounded-0" src="images/project/SOCIAL.png" alt="Card image cap"></a>
-        <div class="card-body position-relative">
-          <i class="card-icon fa fa-bar-chart"></i>
-          <h4><a href="Social-Media-Marketing.php" class="text-dark"> SOCIAL MEDIA MARKETING</a></h4>
-          <p class="card-text">We create and manage your social media accounts to interact and reach out to your customers.</p>
-          <a href="Social-Media-Marketing.php" class="btn btn-secondary btn-arrow">Read More</a>
-        </div>
-      </div>
-    </div>
-    <!-- service-item -->
-    <!--  <div class="col-lg-4 col-sm-6 mb-4">
-      <div class="card border-0 rounded-0 box-shadow">
-        <img class="card-img-top rounded-0" src="images/service/service-5.jpg" alt="Card image cap">
-        <div class="card-body position-relative">
-          <i class="card-icon fa fa-handshake-o"></i>
-          <h4><a href="service_single.php" class="text-dark">Business Consulting</a></h4>
-          <p class="card-text">Lorem ipsum dolor sit amet, consecte tur adipis elit sed eiusmod.</p>
-          <a href="service_single.php" class="btn btn-secondary btn-arrow">Read More</a>
-        </div>
-      </div>
-    </div>
-    service-item
-    <div class="col-lg-4 col-sm-6 mb-4">
-      <div class="card border-0 rounded-0 box-shadow">
-        <img class="card-img-top rounded-0" src="images/service/service-6.jpg" alt="Card image cap">
-        <div class="card-body position-relative">
-          <i class="card-icon fa fa-briefcase"></i>
-          <h4><a href="service_single.php" class="text-dark">Invesment Planning</a></h4>
-          <p class="card-text">Lorem ipsum dolor sit amet, consecte tur adipis elit sed eiusmod.</p>
-          <a href="service_single.php" class="btn btn-secondary btn-arrow">Read More</a>
-        </div>
-      </div>
-    </div> -->
   </div>
 </section>
-<!-- service /items -->
 
-<!-- testimonial -->
-<!-- <section class="section overlay-secondary bg-cover" data-background="images/backgrounds/testimonial-bg.jpg">
-  <div class="container">
-    <div class="row">
-      <div class="col-12 text-center">
-        <span class="section-title-border border-center"></span>
-        <p class="subtitle text-white">Testimonials</p>
-        <h2 class="section-title text-white">What Clients Are Say?</h2>
-
-      </div>
-    </div>
- 
-    <div class="row">
-      <div class="col-md-10 mx-auto">
-         
-        <div class="testimonial-slider-2">
-          
-          <div class="bg-quote text-center" data-dot-image="images/testimonial/Mechantronics.webp">
-            <p class="font-italic mb-5 text-white">"Loved your service. Your prompt responses and taking initiative with interview process really helped speed things up. Will definitely come back to you the next time we have requirments!" 
-               <br > Thanks a lot!..</p>
-              <h4 class="text-white">Poorva Bapat</h4>
-            
-            <span class="text-primary">Software Machatronics</span>
-          </div>
-          
-          <div class="bg-quote text-center" data-dot-image="images/testimonial/Extrapreneurs.webp">
-            <p class="font-italic mb-5 text-white">"HuMandala understood the phase and partnered with us to build our human resources capability brick by brick, and keep pace with the growth trends of the business.  HuMandala owned the process and the set up maintaining the third partner distance and over the period set the HR processes and policies, facilitated hiring and training/capability building sessions for the HR personal."</p>
-            <h4 class="text-white">Avinash Bhokare</h4>
-            <span class="text-primary">Extrapreneurs India</span>
-          </div>
-          
-          <div class="bg-quote text-center" data-dot-image="images/testimonial/Ogee.webp">
-            <p class="font-italic mb-5 text-white">"We have known HuMandala for over a year now. HuMandala has become an integral part of our recruitment process.   HuMandala’s understanding of the exact requirements is quite remarkable. HuMandala realizes the time sensitiveness of the position and responds speedily. We look forward to engage with HuMandala for all the services HuMandala provides!"</p>
-            <h4 class="text-white">Executive leadership</h4>
-            <span class="text-primary">Ogee Studio</span>
-          </div>
-        </div>
-              <br>
-            <br> <br>
-            <br>
-               </div>
-        
-    </div>
-  </div>
-</section> -->
-<!-- /testimonial -->
-
-<!-- pricing -->
-<!-- <section class="section">
-  <div class="container">
-    <div class="row">
-      <div class="col-12 text-center">
-        <div class="section-title-border border-center"></div>
-        <p class="subtitle">Pricing Table</p>
-        <h2 class="section-title">Best Price Ever</h2>
-      </div>
-    </div>
-    <div class="pricing-container">
-  <div class="pricing-switcher">
-    <p class="fieldset">
-      <input type="radio" name="duration-1" value="monthly" id="monthly-1" checked>
-      <label class="mb-0 monthly pricing-duration active" for="monthly-1">Monthly</label>
-      <input type="radio" name="duration-1" value="yearly" id="yearly-1">
-      <label class="mb-0 yearly pricing-duration" for="yearly-1">Yearly</label>
-      <span class="switch"></span>
+<!-- Know about our main domains -->
+<section class="py-5">
+  <div class="container web-service">
+    <h3 class="mb-4 fw-bold text-uppercase">Your Trusted Partner for Powerful Digital Marketing Solutions</h3>
+    <p style="line-height: 2;">
+      <strong>Alivean Tech Solutions</strong> is one of Pune’s reliable and fast-growing digital marketing agencies, trusted by clients across India and beyond. Our experienced team thrives on innovation, continuous learning, and crafting strategies that match the unique goals of every business. Since no two brands are the same, we design fully customized digital marketing solutions tailored to each client’s needs.
+    </p>
+    <p>
+      We help build, shape, and strengthen your brand through strategic online marketing. Our digital specialists stay active across all major platforms — engaging with audiences, understanding trends, exchanging ideas, and adapting strategies based on real user behavior and feedback.
+    </p>
+    <p>
+      With people spending most of their time online today, the business world has shifted dramatically. Traditional marketing alone can’t keep up with modern consumer behavior — digital marketing has become essential for reaching the right audience at the right moment. At Alivean, we utilize SEO, social media marketing, content strategies, paid campaigns, and more to help you connect with your ideal customers and accelerate growth.
+    </p>
+    <p>
+      Our team continuously tests, analyzes, and refines marketing campaigns to understand what attracts users, what influences their decisions, and how they interact with brands across platforms. Digital marketing is a wide ecosystem — from SEO and SMM to web experiences and content marketing — and we ensure your business thrives within it.
+    </p>
+    <p>
+      By combining global insights with local expertise, we help businesses expand their reach, communicate effectively, and unlock new opportunities. As a dependable digital marketing partner, Alivean Tech Solutions is here to elevate your brand and maximize its potential — locally and worldwide.
     </p>
   </div>
-  <ul class="p-0 pricing-list bounce-invert">
-    <li>
-      <ul class="p-0 pricing-wrapper">
-        <li data-type="monthly" class="is-visible">
-        
-         <div class="py-5 px-4 text-center border-left border-right border-color pricing-table">
-            <p class="subtitle">Basic</p>
-            <h2>$39.99</h2>
-            <h5 class="mb-4">Best for small individuals</h5>
-            <div class="border-bottom border-color mb-5"></div>
-            <ul class="list-unstyled mb-5">
-              <li class="mb-3">Express Service</li>
-              <li class="mb-3">Customs Clearance</li>
-              <li class="mb-3">Time-Critical Services</li>
-            </ul>
-            <a href="#" class="btn btn-light btn-light-alt hover-ripple">Select Plan</a>
-          </div>
-        </li>
-        <li data-type="yearly" class="is-hidden">
-       
-          <div class="py-5 px-4 text-center border-left border-right border-color pricing-table">
-            <p class="subtitle">Basic</p>
-            <h2>$139.99</h2>
-            <h5 class="mb-4">Best for small individuals</h5>
-            <div class="border-bottom border-color mb-5"></div>
-            <ul class="list-unstyled mb-5">
-              <li class="mb-3">Express Service</li>
-              <li class="mb-3">Customs Clearance</li>
-              <li class="mb-3">Time-Critical Services</li>
-            </ul>
-            <a href="#" class="btn btn-light btn-light-alt hover-ripple">Select Plan</a>
-          </div>
-        </li>
-      </ul>
-    </li>
-    <li class="exclusive">
-      <ul class="p-0 pricing-wrapper">
-        <li data-type="monthly" class="is-visible">
-         
-          <div class="py-5 px-4 text-center border-left border-right border-color pricing-table active">
-            <p class="subtitle">Popular</p>
-            <h2>$49.99</h2>
-            <h5 class="mb-4">Best for small individuals</h5>
-            <div class="border-bottom border-color mb-5"></div>
-            <ul class="list-unstyled mb-5">
-              <li class="mb-3">Express Service</li>
-              <li class="mb-3">Customs Clearance</li>
-              <li class="mb-3">Time-Critical Services</li>
-            </ul>
-            <a href="#" class="btn btn-light hover-ripple ripple-white">Select Plan</a>
-          </div>
-        </li>
-        <li data-type="yearly" class="is-hidden"> -->
+</section>
 
-<!--   <div class="py-5 px-4 text-center border-left border-right border-color pricing-table active">
-            <p class="subtitle">Popular</p>
-            <h2>$149.99</h2>
-            <h5 class="mb-4">Best for small individuals</h5>
-            <div class="border-bottom border-color mb-5"></div>
-            <ul class="list-unstyled mb-5">
-              <li class="mb-3">Express Service</li>
-              <li class="mb-3">Customs Clearance</li>
-              <li class="mb-3">Time-Critical Services</li>
-            </ul>
-            <a href="#" class="btn btn-light hover-ripple ripple-white">Select Plan</a>
-          </div>
-        </li>
-      </ul>
-    </li>
-    <li>
-      <ul class="p-0 pricing-wrapper">
-        <li data-type="monthly" class="is-visible">
-       
-          <div class="py-5 px-4 text-center border-left border-right border-color pricing-table">
-            <p class="subtitle">Standard</p>
-            <h2>$59.99</h2>
-            <h5 class="mb-4">Best for small individuals</h5>
-            <div class="border-bottom border-color mb-5"></div>
-            <ul class="list-unstyled mb-5">
-              <li class="mb-3">Express Service</li>
-              <li class="mb-3">Customs Clearance</li>
-              <li class="mb-3">Time-Critical Services</li>
-            </ul>
-            <a href="#" class="btn btn-light btn-light-alt hover-ripple">Select Plan</a>
-          </div>
-        </li>
-        <li data-type="yearly" class="is-hidden"> -->
+<!-- FAQs Section -->
+<section class="py-5 bg-light">
+  <div class="container web-service">
+    <h3 class="mb-4 fw-bold text-uppercase">Frequently Asked Questions (FAQ’s) — Digital Marketing</h3>
+    <div class="row">
+      <div class="col-lg-12 md-mb-50">
+        <div class="faq-content">
+          <div id="accordion" class="accordion">
+            <div class="card">
+              <div class="card-header">
+                <a class="card-link collapsed" data-toggle="collapse" href="#collapse1" aria-expanded="false">
+                  1. What does a digital marketer do?
+                </a>
+              </div>
+              <div id="collapse1" class="collapse" data-parent="#accordion">
+                <div class="card-body">
+                  <p>
+                    A digital marketer helps businesses grow online by promoting products or services through digital platforms. Their responsibilities include creating marketing strategies, managing social media, optimizing websites for search engines, running paid ad campaigns, analyzing performance data, and improving online visibility to attract the right audience.
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div class="card">
+              <div class="card-header">
+                <a class="card-link collapsed" data-toggle="collapse" href="#collapse2" aria-expanded="false">
+                  2. What are the benefits of Digital Marketing for any business?
+                </a>
+              </div>
+              <div id="collapse2" class="collapse" data-parent="#accordion">
+                <div class="card-body">
+                  <p>
+                    Digital marketing offers several advantages, including: <br>
+                    1] <strong>Cost-effective marketing</strong> compared to traditional advertising <br>
+                    2] Measurable results through analytics tools <br>
+                    3] Targeted reach to specific audiences <br>
+                    4] Improved brand visibility across platforms <br>
+                    5] Higher engagement through social media and content marketing <br>
+                    6] Better conversion rates using data-driven strategies <br>
+                    7] Global accessibility, enabling businesses to reach customers worldwide
+                  </p>
+                </div>
+              </div>
+            </div>
 
-<!--   <div class="py-5 px-4 text-center border-left border-right border-color pricing-table">
-            <p class="subtitle">Standard</p>
-            <h2>$159.99</h2>
-            <h5 class="mb-4">Best for small individuals</h5>
-            <div class="border-bottom border-color mb-5"></div>
-            <ul class="list-unstyled mb-5">
-              <li class="mb-3">Express Service</li>
-              <li class="mb-3">Customs Clearance</li>
-              <li class="mb-3">Time-Critical Services</li>
-            </ul>
-            <a href="#" class="btn btn-light btn-light-alt hover-ripple">Select Plan</a>
+            <div class="card">
+              <div class="card-header">
+                <a class="card-link collapsed" data-toggle="collapse" href="#collapse3" aria-expanded="false">
+                  3. What does a Professional Digital Marketing Company do?
+                </a>
+              </div>
+              <div id="collapse3" class="collapse" data-parent="#accordion">
+                <div class="card-body">
+                  <p>
+                    A professional digital marketing agency provides end-to-end online marketing solutions. Their services typically include SEO, social media management, paid advertising, website development, content creation, brand strategy, and lead generation. They analyze the market, understand your business goals, plan tailored strategies, execute campaigns, and monitor performance to ensure consistent growth.
+                  </p>
+                </div>
+              </div>
+            </div>
+
+            <div class="card">
+              <div class="card-header">
+                <a class="card-link collapsed" data-toggle="collapse" href="#collapse4" aria-expanded="false">
+                  4. Which are the best digital marketing channels?
+                </a>
+              </div>
+              <div id="collapse4" class="collapse" data-parent="#accordion">
+                <div class="card-body">
+                  <p>
+                    The most effective digital marketing channels include: <br>
+                    1] <strong>Search Engine Optimization (SEO)</strong> <br>
+                    2] <strong>Social Media Marketing (SMM)</strong> <br>
+                    3] <strong>Pay-Per-Click Advertising (PPC)</strong> <br>
+                    4] <strong>Content Marketing</strong> <br>
+                    5] <strong>Email Marketing</strong> <br>
+                    6] <strong>Bulk WhatsApp & SMS Promotion</strong> <br>
+                    7] <strong>Video Promotion</strong> <br>
+                    Each channel has unique strengths, and the ideal mix depends on your business goals and target audience. <br>
+                  </p>
+                </div>
+              </div>
+            </div>
+
+            <div class="card">
+              <div class="card-header">
+                <a class="card-link collapsed" data-toggle="collapse" href="#collapse5" aria-expanded="false">
+                  5. What’s the biggest mistake digital marketers make?
+                </a>
+              </div>
+              <div id="collapse5" class="collapse" data-parent="#accordion">
+                <div class="card-body">
+                  <p>
+                    One of the most common mistakes is focusing on short-term gains rather than long-term strategy. Other major errors include inconsistent branding, ignoring data analytics, publishing content without understanding the audience, not optimizing for mobile users, and skipping competitor research. Successful digital marketing requires strategy, consistency, and data-driven decisions.
+                  </p>
+                </div>
+              </div>
+            </div>
+
+            <div class="card">
+              <div class="card-header">
+                <a class="card-link collapsed" data-toggle="collapse" href="#collapse6" aria-expanded="false">
+                  6. Why is a website important for any business?
+                </a>
+              </div>
+              <div id="collapse6" class="collapse" data-parent="#accordion">
+                <div class="card-body">
+                  <p>
+                    A website acts as the digital storefront of your business. It provides credibility, showcases your offerings, helps customers find essential information, and builds trust. A well-designed website improves brand image, enhances user experience, supports SEO efforts, and plays a crucial role in converting visitors into customers.
+                  </p>
+                </div>
+              </div>
+            </div>
+
+            <div class="card">
+              <div class="card-header">
+                <a class="card-link collapsed" data-toggle="collapse" href="#collapse6" aria-expanded="false">
+                  7. What is the future of Digital Marketing?
+                </a>
+              </div>
+              <div id="collapse6" class="collapse" data-parent="#accordion">
+                <div class="card-body">
+                  <p>
+                    The future of digital marketing is driven by AI, personalization, automation, voice search, video content, and data-driven strategies. Brands will focus more on user experience, hyper-targeted campaigns, conversational marketing, and immersive technologies like AR/VR. Businesses that adopt these modern digital trends will stay competitive and achieve faster growth.
+                  </p>
+                </div>
+              </div>
+            </div>
           </div>
-        </li>
-      </ul>
-    </li>
-  </ul>
-</div>
+        </div>
+      </div>
+    </div>
   </div>
 </section>
- /pricing -->
 
-<?php include 'footer.php'; ?>
+<?php require '../../includes/footer.php'; ?>

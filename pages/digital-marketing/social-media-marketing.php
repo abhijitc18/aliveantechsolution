@@ -1,307 +1,193 @@
-<?php include 'header.php'; ?>
-
-<!-- navigation -->
-
-
-<div class="collapse navbar-collapse text-center" id="navigation">
-  <ul class="navbar-nav ml-auto">
-    <li class="nav-item">
-      <div class="active">
-        <a class="nav-link" href="index.php">Home</a>
-      </div>
-    </li>
-
-    <li class="nav-item">
-      <div class="active">
-        <a class="nav-link" href="about_us.php">About us</a>
-      </div>
-    </li>
-
-
-    <li class="nav-item">
-      <div class="active">
-        <a class="nav-link" href="Website_Development.php">Website Development</a>
-      </div>
-
-    </li>
-
-
-    <li class="nav-item">
-      <div class="active">
-        <a class="nav-link" style="color: #f96a3f; " href="Digital_Marketing.php">Digital Marketing</a>
-      </div>
-
-    </li>
-    <li class="nav-item">
-      <div class="active">
-        <a class="nav-link" href="#">Designing</a>
-      </div>
-    </li>
-
-    <li class="nav-item">
-      <div class="active">
-        <a class="nav-link" href="contact.php">Contact Us</a>
-      </div>
-    </li>
-
-
-    <!-- <li class="nav-item dropdown">
-              <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown"
-                aria-haspopup="true" aria-expanded="false">
-                Shortcode
-              </a>
-              <div class="dropdown-menu">
-                  <a class="dropdown-item" href="components/buttons.html">Buttons</a>
-                  <a class="dropdown-item" href="components/icons.html">Icons</a>
-                  <a class="dropdown-item" href="components/typography.html">Typography</a>
-                  <a class="dropdown-item" href="components/accordions.html">Accordions</a>
-                  <a class="dropdown-item" href="components/blog-contents.html">Blog Contents</a>
-                  <a class="dropdown-item" href="components/service-contents.html">Service Contents</a>
-                  <a class="dropdown-item" href="components/team-contents.html">Team Contents</a>
-              </div>
-            </li> -->
-  </ul>
-  <!-- search -->
-  <!-- get start btn -->
-  <!--  <a href="contact.php" class="btn btn-primary hover-ripple">get a Quote </a> -->
-
-</div>
-</nav>
-</div>
-</div>
-<!-- /navigation -->
-</header>
-<!-- /header -->
+<?php require '../../includes/header.php'; ?>
 
 <!-- page title -->
-<section class="banner-section bg-cover overlay" data-background="images/backgrounds/page-title.jpg">
+<section class="banner-section bg-cover overlay" data-background="/aliveantechsolution/assets/images/backgrounds/page-title.jpg">
   <div class="container">
     <div class="row">
       <div class="col-12">
-        <h2 class="text-white mt-3">Local Seo</h2>
-        <!-- breadcrumb -->
+        <h2 class="text-white mt-3">Social Media Marketing</h2>
         <nav aria-label="breadcrumb">
           <ol class="breadcrumb bg-transparent p-0">
-            <li class="breadcrumb-item font-weight-semebold"><a class="text-white" href="index.php">Home</a></li>
-            <li class="breadcrumb-item font-weight-semebold active text-primary" aria-current="page">Local Seo</li>
+            <li class="breadcrumb-item font-weight-semebold">
+              <a class="text-white" href="/aliveantechsolution/index">Home</a>
+            </li>
+            <li class="breadcrumb-item font-weight-semebold active text-primary" aria-current="page">Social Media Marketing</li>
           </ol>
-          <br>
-          <br>
-          <br>
         </nav>
       </div>
     </div>
   </div>
 </section>
-<!-- /page title -->
 
-<!-- service details -->
-<section class="section">
+<!-- Website Designing Service Page -->
+<section class="py-5 bg-light">
   <div class="container">
-    <div class="row">
-      <aside class="col-lg-4">
-        <!-- service list -->
-        <div class="bg-white px-4 py-5 box-shadow mb-5">
-          <h4 class="mb-4">Our Services</h4>
-          <ul class="list-styled style-circle">
+    <div class="row align-items-center">
+      <div class="col-lg-6 mb-4 mb-lg-0">
+        <h2 class="mb-4 fw-bold text-uppercase">Social Media Marketing</h2>
+        <p>
+          In today’s world, people scroll through social media round the clock — it has become second nature. But while everyone knows how to use these platforms, using them strategically to grow a business is a completely different ball game. Beyond the common platforms like Facebook, Instagram, and Twitter, there are countless channels where your brand can meaningfully connect with customers — if managed the right way.
+        </p>
+        <p>
+          This is exactly why professional social media management matters. Running a business leaves little room to constantly post, track trends, engage with users, and maintain a consistent online identity. Your brand’s visibility depends on staying active, relevant, and memorable — something that requires planning and expertise.
+        </p>
+        <p>
+          Effective social media marketing isn’t just about posting updates; it involves content planning, campaign creation, brand storytelling, community engagement, and timely customer support. The process starts with a well-structured social media strategy — a detailed framework that guides your brand’s communication, tone, activities, and objectives throughout the entire journey.
+        </p>
+        <a href="/aliveantechsolution/pages/contact" class="btn btn-primary mt-3">Contact Us</a>
+      </div>
 
-            <li class="border-bottom border-color"><a href="Search-Engine-Optimisation.php" class="text-color d-block pb-3 mt-3 text-decoration-none">Search Engine Optimisation</a></li>
-
-            <li class="border-bottom border-color"><a href="Youtube-Promotion.php" class="text-color d-block pb-3 mt-3 text-decoration-none">Youtube Promotion</a></li>
-            <li class="border-bottom border-color"><a href="Email-Marketing.php" class="text-color d-block pb-3 mt-3 text-decoration-none">Email Marketing</a></li>
-            <li class="border-bottom border-color"><a href="Online-Advertising.php" class="text-color d-block pb-3 mt-3 text-decoration-none">Online Advertising</a></li>
-            <li class="border-bottom border-color"><a href="Local-Seo.php" class="text-color d-block pb-3 mt-3 text-decoration-none"> Local Seo</a></li>
-            <li class="border-bottom border-color"><a href="Social-Media-Marketing.php" class="text-color d-block pb-3 mt-3 text-decoration-none" style="color:#80bfff;  ">Social Media Marketing</a></li>
-
-            <!-- <li class="border-bottom border-color"><a href="#" class="text-color d-block pb-3 mt-3 text-decoration-none">Afiliated
-                Marketing</a></li>
-            <li><a href="#" class="text-color d-block pb-3 mt-3 text-decoration-none">Targated Marketing</a></li> -->
-          </ul>
-        </div>
-        <!-- quick contact -->
-        <div class="bg-white px-4 py-5 box-shadow mb-5">
-          <h4 class="mb-4">Quick Contact</h4>
-          <form action="#">
-            <input type="text" name="name" id="name" class="form-control form-control-sm border-0 rounded-0 box-shadow mb-3"
-              placeholder="Name">
-            <input type="email" name="mail" id="mail" class="form-control form-control-sm border-0 rounded-0 box-shadow mb-3"
-              placeholder="Email">
-            <input type="text" name="phone" id="phone" class="form-control form-control-sm border-0 rounded-0 box-shadow mb-3"
-              placeholder="Phone">
-            <input type="text" name="subject" id="subject" class="form-control form-control-sm border-0 rounded-0 box-shadow mb-3"
-              placeholder="Subject">
-            <textarea name="message" id="message" class="form-control form-control-sm border-0 rounded-0 box-shadow mb-3 py-3 px-4"
-              placeholder="Your Message"></textarea>
-            <button type="submit" value="send" class="btn btn-primary">send message</button>
-          </form>
-        </div>
-        <!-- pdf download -->
-
-      </aside>
-      <div class="col-lg-8">
-        <p class="mb-3" style="text-indent: 0em;">UWe help you manage all the social media platform likes Facebook, Twitter, Instagram, and Google Plus. We use the right tools to optimize your content on social media to help in your business.</p>
-
-        <img src="images/project/SOCIALMEDIMARKETING.png" alt="service thumb" class="img-fluid-custom img-responsive">
-
-        <!-- <img src="images/service/service11.webp" alt="service thumb" class="img-fluid w-100 mb-5"> -->
-        <h4 class="mb-4">Our Social Media Management Services:</h4>
-        <ul class="list-styled style-circle">
-
-          <li class="mb-2"> Brand Management</li>
-          <li class="mb-2">Social Consultancy</li>
-          <li class="mb-2">Social Media Monitoring</li>
-          <li class="mb-2">Facebook Marketing</li>
-          <li class="mb-2"> Twitter Marketing</li>
-          <li class="mb-2">Instagram Marketing</li>
-          <li class="mb-2">YouTube Marketing</li>
-          <li class="mb-2">Linkedin Marketing</li>
-
-
-
-        </ul>
-
-
-
-        <!-- Benifits of service -->
-        <!-- <h3>Benifits of service</h3>
-        <p>Quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui
-          dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora
-          incidunt ut labore et dolore magnam aliquam.</p>
-        <div class="row mb-5">
-          <div class="col-md-4">
-            <ul class="list-styled style-circle">
-              <li class="mb-2">Setting up of the HR Function</li>
-              <li class="mb-2">Designing HR Policies and Processes</li>
-              <li class="mb-2">HR Audit</li>
-              <li class="mb-2">HR Re-engineering/li>
-              <li class="mb-2">HR Outsourcing</li>
-              <li class="mb-2">HR Catalogue Services</li>
-               <li class="mb-2">Interim HR</li>
-              <li class="mb-2">Outplacement support</li>
-            </ul>
-          </div>
-        </div> -->
-        <!-- Business Strategy -->
-        <!-- <div class="row mb-5">
-          <div class="col-md-6">
-            <h3>Business Strategy</h3>
-            <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia dese runt mollit anim id est
-              laborum.
-              sed ut perspiciatis unde omnis iste natus error sit voluptatem acusantium.</p>
-
-            <ul class="list-styled style-circle">
-              <li class="mb-2">Quality Services</li>
-              <li class="mb-2">Clients Satisfaction</li>
-            </ul>
-          </div>
-          <div class="col-md-6 align-self-end"> -->
-        <!-- chart -->
-        <!-- <canvas id="profit"></canvas>
- -->
-        <!-- script -->
-        <!-- <script>
-  let profit = document.getElementById('profit').getContext('2d');
-  let profitChart = new Chart(profit, {
-    type: 'line', // bar, horizontalBar, pie, line, doughnut, radar, polarArea
-    data: {
-      labels: ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'jul'],
-      datasets: [{
-        label: 'Profit',
-        data: [
-          230,
-          400,
-          500,
-          380,
-          350,
-          450,
-          601
-        ],
-        backgroundColor: 'transparent',
-        borderWidth: 3,
-        borderColor: '#86c33a'
-      }]
-    },
-    options: {
-      title: {
-        display: false,
-        text: 'Sales: 1 Sep, 2017 - 2 Aug, 2018',
-        fontSize: 15
-      },
-      legend: {
-        display: false,
-        position: 'right',
-        padding: 5,
-      },
-      layout: {
-        padding: {
-          left: 0,
-          right: 0,
-          bottom: 0,
-          top: 0
-        }
-      },
-      tooltips: {
-        enabled: true
-      }
-    }
-  });
-</script>
-          </div>
-        </div> -->
-        <!-- Analyze your business -->
-        <!--  <h3>Analyze your business</h3>
-        <p class="mb-5">Quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam
-          est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi
-          tempora incidunt ut labore et dolore magnam aliquam.</p>
-     
-        <div id="accordion">
-      
-          <div class="card border-0 mb-4">
-            <div class="card-header p-0 border-0 bg-transparent">
-              <a class="card-link h4 text-dark font-secondary d-block tex-dark mb-0 py-10" data-toggle="collapse" href="#collapseOne">
-                <i class="fa fa-minus text-primary mr-2"></i> Elit Duied Aiusmod Tempor
-              </a>
-            </div>
-            <div id="collapseOne" class="collapse show" data-parent="#accordion">
-              <div class="card-body text-color pl-4 pb-0">
-                Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia
-                non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam.
-              </div>
-            </div>
-          </div>
-          
-          <div class="card border-0 mb-4">
-            <div class="card-header p-0 border-0 bg-transparent">
-              <a class="card-link h4 text-dark font-secondary d-block tex-dark mb-0 py-10" data-toggle="collapse" href="#collapseTwo">
-                <i class="fa fa-plus text-primary mr-2"></i> Mod Tempor did Labore Dolory
-              </a>
-            </div>
-            <div id="collapseTwo" class="collapse" data-parent="#accordion">
-              <div class="card-body text-color pl-4 pb-0">
-                Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia
-                non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam.
-              </div>
-            </div>
-          </div> -->
-        <!-- accordion item -->
-        <!--     <div class="card border-0 mb-4">
-            <div class="card-header p-0 border-0 bg-transparent">
-              <a class="card-link h4 text-dark font-secondary d-block tex-dark mb-0 py-10" data-toggle="collapse" href="#collapseThree">
-                <i class="fa fa-plus text-primary mr-2"></i> Aiusmod Tempor did Labore Dolory
-              </a>
-            </div>
-            <div id="collapseThree" class="collapse" data-parent="#accordion">
-              <div class="card-body text-color pl-4 pb-0">
-                Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia
-                non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam.
-              </div>
-            </div>
-          </div> -->
+      <div class="col-lg-6 text-center">
+        <img src="/aliveantechsolution/assets/images/service/social-media-marketing.gif" alt="App Development"
+          class="img-fluid rounded shadow-sm">
       </div>
     </div>
   </div>
+</section>
+
+<!-- Know about our main domains -->
+<section class="py-5">
+  <div class="container web-service">
+    <h3 class="mb-4 fw-bold text-uppercase">A Complete Social Media Strategy Built for Real Results</h3>
+    <p style="line-height: 2;">
+      After defining your social media direction, the journey continues through multiple crucial stages — from analyzing competitors and creating a brand-specific style guide to planning a detailed content calendar and actively engaging with your audience. Every phase demands research, consistency, and continuous optimization to ensure your brand always shows up at its best. <br>
+      A major part of this process is performance tracking. This means carefully studying how your posts, campaigns, and engagement efforts are performing using tools like Google Analytics, Facebook Insights, Twitter Analytics, and many more. These tools simplify the work, but they cannot replace strategic thinking, creativity, and consistent effort — and that’s where expert support becomes invaluable. <br>
+      By partnering with us, you eliminate the stress of managing time-consuming, repetitive tasks while still maintaining complete visibility and control over your brand’s growth. We help you with everything — social PR, paid promotions, cross-platform campaigns, creative planning, audience communication, brand voice development, real-time monitoring, reporting, and in-depth analysis. When all these elements work in harmony, your brand gains traction across social platforms, your engagement increases, and your business starts seeing measurable results — exactly what we aim to achieve for you.
+    </p>
   </div>
 </section>
-<!-- /service details -->
 
-<?php include 'footer.php'; ?>
+<!-- FAQs Section -->
+<section class="py-5 bg-light">
+  <div class="container web-service">
+    <h3 class="mb-4 fw-bold text-uppercase">Frequently Asked Questions (FAQ’s) — Social Media Marketing</h3>
+    <div class="row">
+      <div class="col-lg-12 md-mb-50">
+        <div class="faq-content">
+          <div id="accordion" class="accordion">
+            <div class="card">
+              <div class="card-header">
+                <a class="card-link collapsed" data-toggle="collapse" href="#collapse1" aria-expanded="false">
+                  1. What is Social Media Marketing (SMM)?
+                </a>
+              </div>
+              <div id="collapse1" class="collapse" data-parent="#accordion">
+                <div class="card-body">
+                  <p>
+                    Social Media Marketing involves using platforms like Instagram, Facebook, LinkedIn, YouTube, and others to promote your brand, increase visibility, engage with customers, and drive business growth.
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div class="card">
+              <div class="card-header">
+                <a class="card-link collapsed" data-toggle="collapse" href="#collapse2" aria-expanded="false">
+                  2. Why is Social Media Marketing important for my business?
+                </a>
+              </div>
+              <div id="collapse2" class="collapse" data-parent="#accordion">
+                <div class="card-body">
+                  <p>
+                    SMM helps you reach your target audience where they spend most of their time. It boosts brand awareness, builds trust, increases website traffic, and generates high-quality leads.
+                  </p>
+                </div>
+              </div>
+            </div>
+
+            <div class="card">
+              <div class="card-header">
+                <a class="card-link collapsed" data-toggle="collapse" href="#collapse3" aria-expanded="false">
+                  3. Which social media platforms should my business focus on?
+                </a>
+              </div>
+              <div id="collapse3" class="collapse" data-parent="#accordion">
+                <div class="card-body">
+                  <p>
+                    The right platforms depend on your industry, target audience, and goals. For example, Instagram works well for visual brands, LinkedIn for B2B companies, and Facebook for broad audience engagement.
+                  </p>
+                </div>
+              </div>
+            </div>
+
+            <div class="card">
+              <div class="card-header">
+                <a class="card-link collapsed" data-toggle="collapse" href="#collapse4" aria-expanded="false">
+                  4. How long does it take to see results from social media marketing?
+                </a>
+              </div>
+              <div id="collapse4" class="collapse" data-parent="#accordion">
+                <div class="card-body">
+                  <p>
+                    Social media growth is gradual. You may begin noticing engagement improvements within weeks, but substantial results like leads and conversions typically appear within 3–6 months of consistent strategy.
+                  </p>
+                </div>
+              </div>
+            </div>
+
+            <div class="card">
+              <div class="card-header">
+                <a class="card-link collapsed" data-toggle="collapse" href="#collapse5" aria-expanded="false">
+                  5. What type of content works best on social media?
+                </a>
+              </div>
+              <div id="collapse5" class="collapse" data-parent="#accordion">
+                <div class="card-body">
+                  <p>
+                    A mix of posts — including reels, graphics, stories, carousels, blogs, testimonials, and interactive content — generally performs best. The key is to stay consistent, creative, and aligned with your brand identity.
+                  </p>
+                </div>
+              </div>
+            </div>
+
+            <div class="card">
+              <div class="card-header">
+                <a class="card-link collapsed" data-toggle="collapse" href="#collapse6" aria-expanded="false">
+                  6. Do I need paid ads for better results?
+                </a>
+              </div>
+              <div id="collapse6" class="collapse" data-parent="#accordion">
+                <div class="card-body">
+                  <p>
+                    While organic posts help build brand presence, paid ads amplify reach, boost conversions, and help target specific audiences. A combination of both often yields the best outcomes.
+                  </p>
+                </div>
+              </div>
+            </div>
+
+            <div class="card">
+              <div class="card-header">
+                <a class="card-link collapsed" data-toggle="collapse" href="#collapse6" aria-expanded="false">
+                  7. How do you measure the success of social media campaigns?
+                </a>
+              </div>
+              <div id="collapse6" class="collapse" data-parent="#accordion">
+                <div class="card-body">
+                  <p>
+                    We track important metrics like engagement rate, reach, impressions, follower growth, clicks, conversions, and overall ROI to evaluate performance and refine the strategy.
+                  </p>
+                </div>
+              </div>
+            </div>
+
+            <div class="card">
+              <div class="card-header">
+                <a class="card-link collapsed" data-toggle="collapse" href="#collapse6" aria-expanded="false">
+                  8. Can you manage my social media accounts completely?
+                </a>
+              </div>
+              <div id="collapse6" class="collapse" data-parent="#accordion">
+                <div class="card-body">
+                  <p>
+                    Yes! We handle everything — content creation, scheduling, engagement, analytics, branding, and running campaigns — while keeping you updated with regular reports and progress insights.
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<?php require '../../includes/footer.php'; ?>
