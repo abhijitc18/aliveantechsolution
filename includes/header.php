@@ -264,8 +264,12 @@ $page = basename($_SERVER['PHP_SELF']);
                 </div>
               </li>
 
-              <li class="nav-item <?php echo ($current_page === 'careers.php') ? 'active' : ''; ?>">
-                <a class="nav-link" href="/aliveantechsolution/pages/careers">Careers</a>
+              <li class="nav-item dropdown <?php echo ($current_page === 'full-time-job.php') ? 'active' : ''; ?>">
+                <a class="nav-link dropdown-toggle" href="/aliveantechsolution/pages/careers" id="careersDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Careers</a>
+                <div class="dropdown-menu" aria-labelledby="careersDropdown">
+                  <a class="dropdown-item" href="/aliveantechsolution/pages/internships">Internships</a>
+                  <a class="dropdown-item" href="/aliveantechsolution/pages/full-time-job">Full Time Job</a>
+                </div>
               </li>
 
               <li class="nav-item <?php echo ($current_page === 'contact.php') ? 'active' : ''; ?>">

@@ -53,17 +53,14 @@
     <div class="container web-service">
         <h3 class="mb-4 fw-bold text-uppercase">How Our Political Campaigns & Marketing Help You Win</h3>
         <p style="line-height: 2;">
-            Bulk Messaging & Promotions is a powerful communication service designed to help businesses reach large audiences quickly and efficiently. Using high-delivery SMS, WhatsApp broadcasts, and automated promotional messaging tools, we help you connect with customers in real time. Whether it’s announcing offers, sending reminders, sharing updates, or driving traffic to your website, bulk messaging ensures your message gets noticed instantly. <br>
-            Our service includes message personalization, database segmentation, campaign setup, scheduling, and detailed performance tracking—making your communication smooth, targeted, and impactful.<br>
-            At <strong>Alivean Tech Solutions</strong>, we handle end-to-end execution, from crafting compelling promotional messages to ensuring they reach the right audience at the right time. With a focus on accuracy, speed, and compliance, we help you create campaigns that inspire engagement and deliver measurable results. <br><br>
-            <strong>Direct and Instant Communication</strong> – We help you deliver your message instantly to thousands of potential customers, increasing visibility and driving faster responses. <br>
-            <strong>Higher Customer Engagement</strong> – By sending personalized and relevant messages, we ensure clients engage more with your brand, boosting repeat interactions. <br>
-            <strong>Increased Sales & Conversions</strong> – Our well-crafted promotional campaigns encourage customers to take immediate action—leading to higher sales and better conversion rates. <br>
-            <strong>Targeted Campaign Strategies</strong> – We segment your customer database to send messages that match specific interests, demographics, or buying behavior, improving campaign success. <br>
-            <strong>Cost-Effective Marketing</strong> – Bulk messaging is one of the most affordable marketing methods. We help you get maximum reach and ROI without overspending. <br>
-            <strong>Improved Customer Retention</strong> – Regular updates, reminders, and personalized offers help you maintain strong customer relationships and reduce churn. <br>
-            <strong>Analytics & Insights for Optimization</strong> – We track open rates, click-throughs, and customer responses to refine future promotions and improve results over time. <br>
-            <strong>Continuous Support & Campaign Management</strong> – From strategy to execution, we manage the entire process so you can focus on running your business while we grow your customer base.
+            <strong>Boost Your Public Visibility</strong> - We make your presence felt across digital and offline platforms to ensure voters recognize and recall your name. <br>
+            <strong>Deliver Targeted Communication</strong> – Your message reaches the right audience based on demographics, interests, and voter behavior. <br>
+            <strong>Strengthen Your Public Image</strong> – We craft positive narratives, manage perception, and create consistent communication that builds trust. <br>
+            <strong>Engage Voters Effectively</strong> – Through social media, bulk messaging, and creative outreach, we keep your audience informed and connected. <br>
+            <strong>Create Data-Driven Campaigns</strong> – Every decision is powered by analytics, performance data, and real-time insights to maximize impact. <br>
+            <strong>Handle Negative Publicity Smartly</strong> – We monitor digital platforms and manage reputation to minimize misinformation or negative comments. <br>
+            <strong>Develop High-Quality Creative Content</strong> – Eye-catching designs, videos, and posts amplify your message and make your campaign more persuasive. <br>
+            <strong>Support On-Ground & Digital Efforts</strong> – From digital ads to print materials, we ensure all campaign elements work together seamlessly.
         </p>
     </div>
 </section>
@@ -71,7 +68,7 @@
 <!-- FAQs Section -->
 <section class="py-5 bg-light">
     <div class="container web-service">
-        <h3 class="mb-4 fw-bold text-uppercase">Frequently Asked Questions (FAQ’s) — Bulk Messaging & Promotions</h3>
+        <h3 class="mb-4 fw-bold text-uppercase">Frequently Asked Questions (FAQ’s) — Election Campaigns & Political Marketing</h3>
         <div class="row">
             <div class="col-lg-12 md-mb-50">
                 <div class="faq-content">
@@ -79,13 +76,13 @@
                         <div class="card">
                             <div class="card-header">
                                 <a class="card-link collapsed" data-toggle="collapse" href="#collapse1" aria-expanded="false">
-                                    1. What is Bulk Messaging & Promotions?
+                                    1. What is political marketing?
                                 </a>
                             </div>
                             <div id="collapse1" class="collapse" data-parent="#accordion">
                                 <div class="card-body">
                                     <p>
-                                        Bulk Messaging & Promotions is a service that allows businesses to send SMS, WhatsApp messages, and promotional updates to a large audience instantly and efficiently.
+                                        Political marketing involves strategic communication, branding, outreach, and advertising designed to influence voter perception and build support for a candidate or party.
                                     </p>
                                 </div>
                             </div>
@@ -93,13 +90,13 @@
                         <div class="card">
                             <div class="card-header">
                                 <a class="card-link collapsed" data-toggle="collapse" href="#collapse2" aria-expanded="false">
-                                    2. How can bulk messaging benefit my business?
+                                    2. Why do candidates need an election campaign agency?
                                 </a>
                             </div>
                             <div id="collapse2" class="collapse" data-parent="#accordion">
                                 <div class="card-body">
                                     <p>
-                                        It helps increase customer engagement, boost sales, promote offers, send reminders, and improve brand visibility at a very low cost.
+                                        A professional agency provides expertise in strategy, messaging, data analysis, and execution—ensuring campaigns reach the right voters at the right time with maximum impact.
                                     </p>
                                 </div>
                             </div>
@@ -108,13 +105,13 @@
                         <div class="card">
                             <div class="card-header">
                                 <a class="card-link collapsed" data-toggle="collapse" href="#collapse3" aria-expanded="false">
-                                    3. Is bulk messaging legal and safe?
+                                    3. What services are included in political marketing?
                                 </a>
                             </div>
                             <div id="collapse3" class="collapse" data-parent="#accordion">
                                 <div class="card-body">
                                     <p>
-                                        Yes, we follow all regulatory guidelines, ensure data privacy, and send messages only to verified and consented customer lists.
+                                        Services typically include digital marketing, social media management, voter outreach, content creation, bulk messaging, branding, reputation management, and campaign analytics.
                                     </p>
                                 </div>
                             </div>
@@ -123,13 +120,13 @@
                         <div class="card">
                             <div class="card-header">
                                 <a class="card-link collapsed" data-toggle="collapse" href="#collapse4" aria-expanded="false">
-                                    4. Can messages be personalized?
+                                    4. How do you target the right voter audience?
                                 </a>
                             </div>
                             <div id="collapse4" class="collapse" data-parent="#accordion">
                                 <div class="card-body">
                                     <p>
-                                        Absolutely. We personalize messages using customer names, preferences, and other details to increase engagement and response rates.
+                                        We use demographic data, behavioral insights, location-based targeting, and analytics to reach voters who are most likely to engage and support your campaign.
                                     </p>
                                 </div>
                             </div>
@@ -138,13 +135,13 @@
                         <div class="card">
                             <div class="card-header">
                                 <a class="card-link collapsed" data-toggle="collapse" href="#collapse5" aria-expanded="false">
-                                    5. How fast can my messages be delivered?
+                                    5. Can digital marketing really influence elections?
                                 </a>
                             </div>
                             <div id="collapse5" class="collapse" data-parent="#accordion">
                                 <div class="card-body">
                                     <p>
-                                        Most messages are delivered within seconds, making it ideal for urgent announcements, offers, and alerts.
+                                        Yes. Social media, targeted ads, and online engagement allow candidates to reach large audiences quickly, shape public opinion, and respond to issues in real time.
                                     </p>
                                 </div>
                             </div>
@@ -153,13 +150,13 @@
                         <div class="card">
                             <div class="card-header">
                                 <a class="card-link collapsed" data-toggle="collapse" href="#collapse6" aria-expanded="false">
-                                    6. What platforms do you support for bulk messaging?
+                                    6. Do you also handle offline campaign activities?
                                 </a>
                             </div>
                             <div id="collapse6" class="collapse" data-parent="#accordion">
                                 <div class="card-body">
                                     <p>
-                                        We support SMS, WhatsApp broadcasts, and other automated messaging tools depending on your business needs.
+                                        Yes. In addition to digital marketing, we support print materials, banners, event promotions, on-ground branding, and coordinated outreach campaigns.
                                     </p>
                                 </div>
                             </div>
@@ -168,13 +165,13 @@
                         <div class="card">
                             <div class="card-header">
                                 <a class="card-link collapsed" data-toggle="collapse" href="#collapse6" aria-expanded="false">
-                                    7. Do you provide message templates or content writing support?
+                                    7. How do you manage negative comments or misinformation?
                                 </a>
                             </div>
                             <div id="collapse6" class="collapse" data-parent="#accordion">
                                 <div class="card-body">
                                     <p>
-                                        Yes, we create engaging, promotional, and conversion-oriented content for all your campaigns.
+                                        We monitor platforms continuously, respond professionally, and implement reputation management strategies to ensure your public image remains strong.
                                     </p>
                                 </div>
                             </div>
@@ -183,13 +180,13 @@
                         <div class="card">
                             <div class="card-header">
                                 <a class="card-link collapsed" data-toggle="collapse" href="#collapse6" aria-expanded="false">
-                                    8. Can I track the performance of my campaigns?
+                                    8. How long does it take to see campaign results?
                                 </a>
                             </div>
                             <div id="collapse6" class="collapse" data-parent="#accordion">
                                 <div class="card-body">
                                     <p>
-                                        Yes, we provide detailed reports including delivery rates, clicks, responses, and overall campaign impact.
+                                        Impact can be seen within days for digital efforts, while long-term perception building may take weeks or months depending on campaign goals and scale.
                                     </p>
                                 </div>
                             </div>
@@ -198,13 +195,13 @@
                         <div class="card">
                             <div class="card-header">
                                 <a class="card-link collapsed" data-toggle="collapse" href="#collapse6" aria-expanded="false">
-                                    9. Do I need technical knowledge to use this service?
+                                    9. Will you create content and creatives for our campaign?
                                 </a>
                             </div>
                             <div id="collapse6" class="collapse" data-parent="#accordion">
                                 <div class="card-body">
                                     <p>
-                                        Not at all. We manage everything from setup to execution. You simply share your message or objective, and we handle the rest.
+                                        Absolutely. We design visuals, videos, posts, speeches, slogans, and messaging frameworks tailored specifically to your political goals and voter base.
                                     </p>
                                 </div>
                             </div>
@@ -213,13 +210,13 @@
                         <div class="card">
                             <div class="card-header">
                                 <a class="card-link collapsed" data-toggle="collapse" href="#collapse6" aria-expanded="false">
-                                    8. Is bulk messaging suitable for small businesses?
+                                    10. How do you measure campaign success?
                                 </a>
                             </div>
                             <div id="collapse6" class="collapse" data-parent="#accordion">
                                 <div class="card-body">
                                     <p>
-                                        Definitely. It’s cost-effective, easy to use, and helps small businesses reach a wider audience quickly.
+                                        We track engagement, reach, sentiment, voter interactions, ad performance, and overall visibility to evaluate success and refine strategies.
                                     </p>
                                 </div>
                             </div>

@@ -213,7 +213,7 @@
             <div class="card">
               <div class="card-header">
                 <a class="card-link collapsed" data-toggle="collapse" href="#collapse6" aria-expanded="false">
-                  8. Is bulk messaging suitable for small businesses?
+                  10. Is bulk messaging suitable for small businesses?
                 </a>
               </div>
               <div id="collapse6" class="collapse" data-parent="#accordion">
