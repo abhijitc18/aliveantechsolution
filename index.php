@@ -119,7 +119,7 @@
     <div class="row justify-content-between align-items-center">
       <div class="col-md-5 bg-contain" data-background="/aliveantechsolution/assets/images/backgrounds/about-us-bg.png">
         <!-- about us image -->
-        <img class="img-fluid w-100" src="/aliveantechsolution/assets/images/about/about-us.png" alt="About Image">
+        <img class="img-fluid w-100" src="/aliveantechsolution/assets/images/about/about-us.webp" alt="About Image">
       </div>
       <div class="col-md-6">
         <span class="section-title-border"></span>
@@ -159,7 +159,7 @@
         <div class="d-flex align-items-center">
           <i class="fa fa-calendar icon-lg mr-3 text-primary"></i>
           <div>
-            <h3 class="text-white mb-0"><span class="count" data-count="25">0</span>+</h3>
+            <h3 class="text-white mb-0"><span class="count" data-count="5">0</span>+</h3>
             <span class="text-white">Years Experience</span>
           </div>
         </div>
@@ -169,7 +169,7 @@
         <div class="d-flex align-items-center">
           <i class="fa fa-trophy icon-lg mr-3 text-primary"></i>
           <div>
-            <h3 class="text-white mb-0"><span class="count" data-count="250">0</span>+</h3>
+            <h3 class="text-white mb-0"><span class="count" data-count="7">0</span>+</h3>
             <span class="text-white">Awards Win</span>
           </div>
         </div>
@@ -179,7 +179,7 @@
         <div class="d-flex align-items-center">
           <i class="fa fa-smile-o icon-lg mr-3 text-primary"></i>
           <div>
-            <h3 class="text-white mb-0"><span class="count" data-count="500">0</span>+</h3>
+            <h3 class="text-white mb-0"><span class="count" data-count="990">0</span>+</h3>
             <span class="text-white">Happy Coustomers</span>
           </div>
         </div>
@@ -305,7 +305,7 @@
 
 
 <!-- services -->
-<section class="bg-gray-white">
+<section class="services-bg-white">
   <div class="section bg-secondary section-bottom-lg">
     <div class="container text-center">
       <span class="section-title-border border-center"></span>
@@ -317,7 +317,7 @@
   <div class="service-wrapper py-5">
     <div class="container">
       <div class="owl-carousel owl-theme" id="services-carousel">
-        <div class="card border-0 rounded-0 box-shadow text-center">
+        <div class="card border-1 rounded-10 text-center">
           <img class="card-img-top rounded-0" src="/aliveantechsolution/assets/images/service/ATS-service-1.jpg" alt="Web Development">
           <div class="card-body position-relative">
             <i class="card-icon fa fa-code"></i>
@@ -329,7 +329,7 @@
           </div>
         </div>
 
-        <div class="card border-0 rounded-0 box-shadow text-center">
+        <div class="card border-1 rounded-10 text-center">
           <img class="card-img-top rounded-0" src="/aliveantechsolution/assets/images/service/ATS-service-2.jpg" alt="E-Commerce Solutions">
           <div class="card-body position-relative">
             <i class="card-icon fa fa-shopping-cart"></i>
@@ -341,7 +341,7 @@
           </div>
         </div>
 
-        <div class="card border-0 rounded-0 box-shadow text-center">
+        <div class="card border-1 rounded-10 text-center">
           <img class="card-img-top rounded-0" src="/aliveantechsolution/assets/images/service/ATS-service-3.jpg" alt="Digital Marketing">
           <div class="card-body position-relative">
             <i class="card-icon fa fa-bullhorn"></i>
@@ -353,7 +353,7 @@
           </div>
         </div>
 
-        <div class="card border-0 rounded-0 box-shadow text-center">
+        <div class="card border-1 rounded-10 text-center">
           <img class="card-img-top rounded-0" src="/aliveantechsolution/assets/images/service/ATS-service-4.png" alt="Branding & Graphic Design">
           <div class="card-body position-relative">
             <i class="card-icon fa fa-paint-brush"></i>
@@ -365,7 +365,7 @@
           </div>
         </div>
 
-        <div class="card border-0 rounded-0 box-shadow text-center">
+        <div class="card border-1 rounded-10 text-center">
           <img class="card-img-top rounded-0" src="/aliveantechsolution/assets/images/service/ATS-service-5.jpg" alt="Bulk Messaging & Promotions">
           <div class="card-body position-relative">
             <i class="card-icon fa fa-envelope"></i>
@@ -377,7 +377,7 @@
           </div>
         </div>
 
-        <div class="card border-0 rounded-0 box-shadow text-center">
+        <div class="card border-1 rounded-10 text-center">
           <img class="card-img-top rounded-0" src="/aliveantechsolution/assets/images/service/ATS-service-6.jpg" alt="Election Campaigns & Political Marketing">
           <div class="card-body position-relative">
             <i class="card-icon fa fa-users"></i>
@@ -389,7 +389,7 @@
           </div>
         </div>
 
-        <div class="card border-0 rounded-0 box-shadow text-center">
+        <div class="card border-1 rounded-10 text-center">
           <img class="card-img-top rounded-0" src="/aliveantechsolution/assets/images/service/ATS-service-7.jpg" alt="Video Production and Editing">
           <div class="card-body position-relative">
             <i class="card-icon fa fa-video-camera"></i>
@@ -511,34 +511,34 @@
       <div class="col-10 mx-auto mb-5">
         <div class="testimonial-slider owl-carousel mb-5">
           <div class="text-center">
-            <img class="img-fluid box-shadow rounded-circle mb-5 d-inline-block" src="/aliveantechsolution/assets/images/testimonial/client-1.jpg" alt="Priya Deshmukh">
+            <img class="img-fluid box-shadow rounded-circle mb-5 d-inline-block" src="/aliveantechsolution/assets/images/testimonial/client-2.jpg" alt="Akash Gaikwad">
             <div class="bg-quote text-center pt-md-4">
               <p class="font-italic mb-5 h5 text-dark">
                 “Alivean Tech Solutions transformed our online presence! The website was delivered on time, beautifully designed, and helped us attract more customers.”
               </p>
-              <h4>Priya Deshmukh</h4>
-              <span class="text-primary">Business Owner</span>
+              <h4>Akash Gaikwad</h4>
+              <span class="text-primary">Founder, The Owlish Mind</span>
             </div>
           </div>
 
           <div class="text-center">
-            <img class="img-fluid box-shadow rounded-circle mb-5 d-inline-block" src="/aliveantechsolution/assets/images/testimonial/client-2.jpg" alt="Rohit Patil">
+            <img class="img-fluid box-shadow rounded-circle mb-5 d-inline-block" src="/aliveantechsolution/assets/images/testimonial/client-1.jpg" alt="Aradhya Gore">
             <div class="bg-quote text-center pt-md-4">
               <p class="font-italic mb-5 h5 text-dark">
                 “Working with Alivean Tech Solutions was a great experience. Their team understood our goals, provided creative ideas, and delivered beyond expectations.”
               </p>
-              <h4>Rohit Patil</h4>
-              <span class="text-primary">Founder, Sahayog Enviro</span>
+              <h4>Aradhya Gore</h4>
+              <span class="text-primary">Director, Sahayog Enviro</span>
             </div>
           </div>
 
           <div class="text-center">
-            <img class="img-fluid box-shadow rounded-circle mb-5 d-inline-block" src="/aliveantechsolution/assets/images/testimonial/client-3.jpg" alt="Rahul Pandit">
+            <img class="img-fluid box-shadow rounded-circle mb-5 d-inline-block" src="/aliveantechsolution/assets/images/testimonial/client-3.jpg" alt="Vishal Yadav">
             <div class="bg-quote text-center pt-md-4">
               <p class="font-italic mb-5 h5 text-dark">
                 “Alivean Tech Solutions elevated our brand with stunning designs and impactful social media content. A dedicated team that truly understands digital branding.”
               </p>
-              <h4>Rahul Pandit</h4>
+              <h4>Vishal Yadav</h4>
               <span class="text-primary">Founder, Sniper AI</span>
             </div>
           </div>

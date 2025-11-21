@@ -780,7 +780,7 @@ a.text-dark:hover {
 }
 
 .section-bottom-lg {
-  padding-bottom: 180px;
+  padding-bottom: 80px;
 }
 
 /* /section */
@@ -1695,9 +1695,13 @@ textarea.form-control-sm {
 
 /* /feature */
 /* service */
+.services-bg-white {
+  background-color: #fff;
+}
+
 .service-wrapper {
   -webkit-transform: translateY(-200px);
-  transform: translateY(-188px);
+  transform: translateY(25px);
 }
 
 .card-icon {
@@ -1721,7 +1725,7 @@ textarea.form-control-sm {
 .service-bg-dots::before {
   position: absolute;
   content: "";
-  background: url(../images/backgrounds/service-page-2.png);
+  /* background: url(../images/backgrounds/service-page-2.png); */
   top: 0px;
   right: 0px;
   height: 100%;
@@ -2616,7 +2620,7 @@ blockquote p {
 }
 
 .card-img-top {
-  margin-top: 1em;
+  margin-top: 0em;
   align-self: center;
   height: 240px;
   width: 254px;
